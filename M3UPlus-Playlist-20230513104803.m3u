@@ -1,0 +1,19 @@
+#EXTM3U url-tvg="http://m3u4u.com/epg/3m97ypwgg9tgdv4wndxq"
+#EXTINF:-1 tvg-id="AlArabiya(English).ca" tvg-name="Al Arabiya" tvg-logo="https://logos-download.com/wp-content/uploads/2021/01/Al_Arabiya_Logo.png" group-title="Arabic",Al Arabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiya_1080p_chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Hadath" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Al-arabiya-al-hadath.jpg" group-title="Arabic",Al Hadath
+https://svs.itworkscdn.net/alarabiyalive/alhadathhd.smil/alarabiapublish/alhadath/chunks.m3u8
+#EXTINF:-1 tvg-id="AlJazeera(Arabic).us" tvg-name="Al Jazeera" tvg-logo="https://www.arabnews.com/sites/default/files/styles/n_670_395/public/2017/09/30/1004036-696429756.jpg?itok=fa9TKup_" group-title="Arabic",Al Jazeera
+https://live-hls-web-aja.getaj.net/AJA/01.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Current_Logo_for_CBC_News_Network.png" group-title="Arabic",CBC News
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30521
+#EXTINF:-1 tvg-id="DWArabia(English).ch" tvg-name="DW Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="Arabic",DW Arabic
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8?ern=0
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC 1" tvg-logo="https://seeklogo.com/images/M/mbc-logo-997BE9574E-seeklogo.com.png" group-title="Arabic",MBC 1
+https://shls-mbcdramaksa-ak.akamaized.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_8.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Lebanon" tvg-logo="https://lebanon.mom-gmr.org/uploads/tx_lfrogmom/media/14023-1409_import.png" group-title="Arabic",MTV Lebanon
+https://live.3cd.io/v1/broadcast/one/tracks-v1a1/mono.m3u8?backup=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Syria TV" tvg-logo="https://thelogofinder.com/wp-content/uploads/edd/2021/11/Syria-TV-Dark.svg" group-title="Arabic",Syria TV
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv/chunks_dvr.m3u8
+#EXTINF:-1 tvg-id="TRTArabi(English).it" tvg-name="TRT Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/TRT_Arabi_logo.svg/2560px-TRT_Arabi_logo.svg.png" group-title="Arabic",TRT Arabic
+https://tv-trtarabi.live.trt.com.tr/master_1080.m3u8

@@ -1,0 +1,2230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="m3u4u" generator-info-url="https://m3u4u.com/">
+<channel id="AlArabiya(English).ca">
+<display-name>Al Arabiya</display-name>
+</channel>
+<channel id="AlJazeera(Arabic).us">
+<display-name>Al Jazeera</display-name>
+</channel>
+<channel id="CBCNewsNetwork(English).ca">
+<display-name>CBC News</display-name>
+</channel>
+<channel id="DWArabia(English).ch">
+<display-name>DW Arabic</display-name>
+</channel>
+<channel id="TRTArabi(English).it">
+<display-name>TRT Arabic</display-name>
+</channel>
+<programme start="20230513000000 +0000" stop="20230513003300 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230513003300 +0000" stop="20230513010000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Political Memory</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230513010000 +0000" stop="20230513013100 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230513013100 +0000" stop="20230513020000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Wa Ratel Al Quran</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230513020000 +0000" stop="20230513023000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230513023000 +0000" stop="20230513030000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Sports News</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230513030000 +0000" stop="20230513033000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230513033000 +0000" stop="20230513040000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230513040000 +0000" stop="20230513043300 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230513043300 +0000" stop="20230513050000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Wa Ratel Al Quran</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230513050000 +0000" stop="20230513053100 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230513053100 +0000" stop="20230513060000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Mahattat</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230513060000 +0000" stop="20230513070000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230513070000 +0000" stop="20230513073300 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230513073300 +0000" stop="20230513080000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Rawafed</title>
+<desc lang="en">Interviewing intellectuals, artists and scientists about matters of public interest.</desc>
+</programme>
+<programme start="20230513080000 +0000" stop="20230513083200 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230513083200 +0000" stop="20230513090000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Death Making</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230513090000 +0000" stop="20230513093200 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230513093200 +0000" stop="20230513100000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Wa Ratel Al Quran</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230513100000 +0000" stop="20230513113200 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230513113200 +0000" stop="20230513120000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Kalam Fi Alfan</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230513120000 +0000" stop="20230513130000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230513130000 +0000" stop="20230513140000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230513140000 +0000" stop="20230513142900 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230513142900 +0000" stop="20230513150000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Mahattat</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230513150000 +0000" stop="20230513153000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230513153000 +0000" stop="20230513160000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Sports News</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230513160000 +0000" stop="20230513170000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230513170000 +0000" stop="20230513173000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230513173000 +0000" stop="20230513200500 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230513200500 +0000" stop="20230513210000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Sports News</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230513210000 +0000" stop="20230513210500 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230513210500 +0000" stop="20230513220000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Race for the White House</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230513220000 +0000" stop="20230513222900 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230513222900 +0000" stop="20230513230000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >On Demand</title>
+<desc lang="en">Latest Bollywood hit Songs.</desc>
+</programme>
+<programme start="20230513230000 +0000" stop="20230513233400 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230513233400 +0000" stop="20230514000000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Ala Khota Al Arab</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230514000000 +0000" stop="20230514003000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230514003000 +0000" stop="20230514010000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Other Dimension</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230514010000 +0000" stop="20230514010300 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230514010300 +0000" stop="20230514020000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Race for the White House</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230514020000 +0000" stop="20230514020600 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230514020600 +0000" stop="20230514030000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Sports News</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230514030000 +0000" stop="20230514040000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230514040000 +0000" stop="20230514050700 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Sabah Al Arabiya</title>
+<desc lang="en">Arabic.</desc>
+</programme>
+<programme start="20230514050700 +0000" stop="20230514055200 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Sabah Al Arabiya</title>
+<desc lang="en">Arabic.</desc>
+</programme>
+<programme start="20230514055200 +0000" stop="20230514055900 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Business</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230514055900 +0000" stop="20230514073000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230514073000 +0000" stop="20230514080000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Business</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230514080000 +0000" stop="20230514090000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230514090000 +0000" stop="20230514093000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230514093000 +0000" stop="20230514100000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Business</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230514100000 +0000" stop="20230514103000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230514103000 +0000" stop="20230514112500 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Closing Bell</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230514112500 +0000" stop="20230514120000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Special Mission</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230514120000 +0000" stop="20230514130000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230514130000 +0000" stop="20230514140000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230514140000 +0000" stop="20230514143000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Tafa'olcom</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230514143000 +0000" stop="20230514150000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Business</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230514150000 +0000" stop="20230514153000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230514153000 +0000" stop="20230514160000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Sports News</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230514160000 +0000" stop="20230514170000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Panorama</title>
+<desc lang="en">A political talk show with current affairs.</desc>
+</programme>
+<programme start="20230514170000 +0000" stop="20230514173000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230514173000 +0000" stop="20230514180000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230514180000 +0000" stop="20230514200000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya Al Layla</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230514200000 +0000" stop="20230514200500 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230514200500 +0000" stop="20230514203000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Tafa'olcom</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230514203000 +0000" stop="20230514210000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Sports News</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230514210000 +0000" stop="20230514212600 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230514212600 +0000" stop="20230514220000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Kalam Fi Alfan</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230514220000 +0000" stop="20230514230000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230514230000 +0000" stop="20230514230900 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230514230900 +0000" stop="20230515000000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Panorama</title>
+<desc lang="en">A political talk show with current affairs.</desc>
+</programme>
+<programme start="20230515000000 +0000" stop="20230515003300 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230515003300 +0000" stop="20230515010000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Death Making</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230515010000 +0000" stop="20230515013300 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230515013300 +0000" stop="20230515020000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Wa Ratel Al Quran</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230515020000 +0000" stop="20230515022900 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230515022900 +0000" stop="20230515030000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Sports News</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230515030000 +0000" stop="20230515033000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230515033000 +0000" stop="20230515040000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230515040000 +0000" stop="20230515043500 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230515043500 +0000" stop="20230515050000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Wa Ratel Al Quran</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230515050000 +0000" stop="20230515070000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Sabah Al Arabiya</title>
+<desc lang="en">Arabic.</desc>
+</programme>
+<programme start="20230515070000 +0000" stop="20230515073000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230515073000 +0000" stop="20230515080000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Business</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230515080000 +0000" stop="20230515083300 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230515083300 +0000" stop="20230515090000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Tafa'olcom</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230515090000 +0000" stop="20230515093200 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230515093200 +0000" stop="20230515100000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Political Memory</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230515100000 +0000" stop="20230515112900 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230515112900 +0000" stop="20230515120000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Kalam Fi Alfan</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230515120000 +0000" stop="20230515130000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230515130000 +0000" stop="20230515140000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230515140000 +0000" stop="20230515143600 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230515143600 +0000" stop="20230515150000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Wa Ratel Al Quran</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230515150000 +0000" stop="20230515153000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230515153000 +0000" stop="20230515160000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Sports News</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230515160000 +0000" stop="20230515170000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Panorama</title>
+<desc lang="en">A political talk show with current affairs.</desc>
+</programme>
+<programme start="20230515170000 +0000" stop="20230515173000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230515173000 +0000" stop="20230515180000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230515180000 +0000" stop="20230515200000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya Al Layla</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230515200000 +0000" stop="20230515200500 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230515200500 +0000" stop="20230515203000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Tafa'olcom</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230515203000 +0000" stop="20230515210000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Sports News</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230515210000 +0000" stop="20230515212900 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230515212900 +0000" stop="20230515220000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Kalam Fi Alfan</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230515220000 +0000" stop="20230515230000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230515230000 +0000" stop="20230515230900 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230515230900 +0000" stop="20230516000000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Panorama</title>
+<desc lang="en">A political talk show with current affairs.</desc>
+</programme>
+<programme start="20230516000000 +0000" stop="20230516003200 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230516003200 +0000" stop="20230516010000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Political Memory</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230516010000 +0000" stop="20230516013800 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230516013800 +0000" stop="20230516020000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Wa Ratel Al Quran</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230516020000 +0000" stop="20230516023300 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230516023300 +0000" stop="20230516030000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Sports News</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230516030000 +0000" stop="20230516033000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230516033000 +0000" stop="20230516040000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230516040000 +0000" stop="20230516044000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230516044000 +0000" stop="20230516050000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Wa Ratel Al Quran</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230516050000 +0000" stop="20230516070000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Sabah Al Arabiya</title>
+<desc lang="en">Arabic.</desc>
+</programme>
+<programme start="20230516070000 +0000" stop="20230516080000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230516080000 +0000" stop="20230516080500 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230516080500 +0000" stop="20230516082900 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Tafa'olcom</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230516082900 +0000" stop="20230516090000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Rawafed</title>
+<desc lang="en">Interviewing intellectuals, artists and scientists about matters of public interest.</desc>
+</programme>
+<programme start="20230516090000 +0000" stop="20230516093200 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230516093200 +0000" stop="20230516100000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Special Mission</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230516100000 +0000" stop="20230516113000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230516113000 +0000" stop="20230516120000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Kalam Fi Alfan</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230516120000 +0000" stop="20230516130000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230516130000 +0000" stop="20230516140000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230516140000 +0000" stop="20230516140500 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230516140500 +0000" stop="20230516143000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Tafa'olcom</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230516143000 +0000" stop="20230516150000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Wa Ratel Al Quran</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230516150000 +0000" stop="20230516153000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230516153000 +0000" stop="20230516160000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Sports News</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230516160000 +0000" stop="20230516170000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Panorama</title>
+<desc lang="en">A political talk show with current affairs.</desc>
+</programme>
+<programme start="20230516170000 +0000" stop="20230516173000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230516173000 +0000" stop="20230516180000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230516180000 +0000" stop="20230516200000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya Al Layla</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230516200000 +0000" stop="20230516203000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230516203000 +0000" stop="20230516210000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Sports News</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230516210000 +0000" stop="20230516213400 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230516213400 +0000" stop="20230516220000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Kalam Fi Alfan</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230516220000 +0000" stop="20230516230000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230516230000 +0000" stop="20230516231000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Al Arabiya News</title>
+<desc lang="en">A news program.</desc>
+</programme>
+<programme start="20230516231000 +0000" stop="20230517000000 +0000" channel="AlArabiya(English).ca">
+<title lang="en" >Panorama</title>
+<desc lang="en">A political talk show with current affairs.</desc>
+</programme>
+<programme start="20230513000000 +0000" stop="20230513000500 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >News Summary</title>
+<desc lang="en">World news and Arab world developments.</desc>
+</programme>
+<programme start="20230513000500 +0000" stop="20230513005500 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >Scenarios</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230513005500 +0000" stop="20230513010000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >Weather Forecast</title>
+<desc lang="en">Bringing the latest weather news and the forecast.</desc>
+</programme>
+<programme start="20230513010000 +0000" stop="20230513010500 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >News Summary</title>
+<desc lang="en">World news and Arab world developments.</desc>
+</programme>
+<programme start="20230513010500 +0000" stop="20230513020000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >From Washington</title>
+<desc lang="en">(Arabic) Journalists, analysts and decision-makers talk about the United States.</desc>
+</programme>
+<programme start="20230513020000 +0000" stop="20230513020500 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >News Summary</title>
+<desc lang="en">World news and Arab world developments.</desc>
+</programme>
+<programme start="20230513020500 +0000" stop="20230513030000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >Doc</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230513030000 +0000" stop="20230513033000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >News Bulletin</title>
+<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
+</programme>
+<programme start="20230513033000 +0000" stop="20230513040000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >Beyond Authority</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230513040000 +0000" stop="20230513043000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >News Bulletin</title>
+<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
+</programme>
+<programme start="20230513043000 +0000" stop="20230513050000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >Behind the News</title>
+<desc lang="en">A current affairs daily program looking at a major news story of the day.</desc>
+</programme>
+<programme start="20230513050000 +0000" stop="20230513060000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >News Bulletin</title>
+<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
+</programme>
+<programme start="20230513060000 +0000" stop="20230513060500 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >News Summary</title>
+<desc lang="en">World news and Arab world developments.</desc>
+</programme>
+<programme start="20230513060500 +0000" stop="20230513070000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >Al Jazeera This Morning</title>
+<desc lang="en">Starting the day with news brought to you with interviews from Al Jazeera's global teams.</desc>
+</programme>
+<programme start="20230513070000 +0000" stop="20230513073000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >News Bulletin</title>
+<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
+</programme>
+<programme start="20230513073000 +0000" stop="20230513080000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >Smart Life</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230513080000 +0000" stop="20230513110000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >This Day</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230513110000 +0000" stop="20230513115500 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >News Bulletin</title>
+<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
+</programme>
+<programme start="20230513115500 +0000" stop="20230513120000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >Weather Forecast</title>
+<desc lang="en">Bringing the latest weather news and the forecast.</desc>
+</programme>
+<programme start="20230513120000 +0000" stop="20230513160000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >Al Jazeera Midday</title>
+<desc lang="en">Al Jazeera's global team provides today's news and interviews.</desc>
+</programme>
+<programme start="20230513160000 +0000" stop="20230513163000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >News Bulletin</title>
+<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
+</programme>
+<programme start="20230513163000 +0000" stop="20230513170000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >The Traveller</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230513170000 +0000" stop="20230513173000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >News Summary</title>
+<desc lang="en">World news and Arab world developments.</desc>
+</programme>
+<programme start="20230513173000 +0000" stop="20230513180000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >Behind the News</title>
+<desc lang="en">A current affairs daily program looking at a major news story of the day.</desc>
+</programme>
+<programme start="20230513180000 +0000" stop="20230513200000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >News Bulletin</title>
+<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
+</programme>
+<programme start="20230513200000 +0000" stop="20230513220000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >Today's Harvest</title>
+<desc lang="en">(Arabic) Combines major headline news of the day with in-depth analysis.</desc>
+</programme>
+<programme start="20230513220000 +0000" stop="20230513225500 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >News Bulletin</title>
+<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
+</programme>
+<programme start="20230513225500 +0000" stop="20230513230000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >Weather Forecast</title>
+<desc lang="en">Bringing the latest weather news and the forecast.</desc>
+</programme>
+<programme start="20230513230000 +0000" stop="20230513233000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >News Bulletin</title>
+<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
+</programme>
+<programme start="20230513233000 +0000" stop="20230514000000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >Behind the News</title>
+<desc lang="en">A current affairs daily program looking at a major news story of the day.</desc>
+</programme>
+<programme start="20230514000000 +0000" stop="20230514000500 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >News Summary</title>
+<desc lang="en">World news and Arab world developments.</desc>
+</programme>
+<programme start="20230514000500 +0000" stop="20230514005500 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >Private Investigation</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230514005500 +0000" stop="20230514010000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >Weather Forecast</title>
+<desc lang="en">Bringing the latest weather news and the forecast.</desc>
+</programme>
+<programme start="20230514010000 +0000" stop="20230514013000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >News Bulletin</title>
+<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
+</programme>
+<programme start="20230514013000 +0000" stop="20230514020000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >Beyond Authority</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230514020000 +0000" stop="20230514020500 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >News Summary</title>
+<desc lang="en">World news and Arab world developments.</desc>
+</programme>
+<programme start="20230514020500 +0000" stop="20230514030000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >Doc</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230514030000 +0000" stop="20230514033000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >News Bulletin</title>
+<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
+</programme>
+<programme start="20230514033000 +0000" stop="20230514040000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >The Traveller</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230514040000 +0000" stop="20230514043000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >News Bulletin</title>
+<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
+</programme>
+<programme start="20230514043000 +0000" stop="20230514050000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >Behind the News</title>
+<desc lang="en">A current affairs daily program looking at a major news story of the day.</desc>
+</programme>
+<programme start="20230514050000 +0000" stop="20230514060000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >News Bulletin</title>
+<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
+</programme>
+<programme start="20230514060000 +0000" stop="20230514060500 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >News Summary</title>
+<desc lang="en">World news and Arab world developments.</desc>
+</programme>
+<programme start="20230514060500 +0000" stop="20230514070000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >Al Jazeera This Morning</title>
+<desc lang="en">Starting the day with news brought to you with interviews from Al Jazeera's global teams.</desc>
+</programme>
+<programme start="20230514070000 +0000" stop="20230514070500 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >News Summary</title>
+<desc lang="en">World news and Arab world developments.</desc>
+</programme>
+<programme start="20230514070500 +0000" stop="20230514080000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >From Washington</title>
+<desc lang="en">(Arabic) Journalists, analysts and decision-makers talk about the United States.</desc>
+</programme>
+<programme start="20230514080000 +0000" stop="20230514110000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >This Day</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230514110000 +0000" stop="20230514115500 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >News Bulletin</title>
+<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
+</programme>
+<programme start="20230514115500 +0000" stop="20230514120000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >Weather Forecast</title>
+<desc lang="en">Bringing the latest weather news and the forecast.</desc>
+</programme>
+<programme start="20230514120000 +0000" stop="20230514160000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >Al Jazeera Midday</title>
+<desc lang="en">Al Jazeera's global team provides today's news and interviews.</desc>
+</programme>
+<programme start="20230514160000 +0000" stop="20230514170000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >News Bulletin</title>
+<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
+</programme>
+<programme start="20230514170000 +0000" stop="20230514173000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >News Summary</title>
+<desc lang="en">World news and Arab world developments.</desc>
+</programme>
+<programme start="20230514173000 +0000" stop="20230514180000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >Behind the News</title>
+<desc lang="en">A current affairs daily program looking at a major news story of the day.</desc>
+</programme>
+<programme start="20230514180000 +0000" stop="20230514190500 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >News Bulletin</title>
+<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
+</programme>
+<programme start="20230514190500 +0000" stop="20230514200000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >The Interview</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230514200000 +0000" stop="20230514220000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >Today's Harvest</title>
+<desc lang="en">(Arabic) Combines major headline news of the day with in-depth analysis.</desc>
+</programme>
+<programme start="20230514220000 +0000" stop="20230514225500 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >News Bulletin</title>
+<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
+</programme>
+<programme start="20230514225500 +0000" stop="20230514230000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >Weather Forecast</title>
+<desc lang="en">Bringing the latest weather news and the forecast.</desc>
+</programme>
+<programme start="20230514230000 +0000" stop="20230514233000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >News Bulletin</title>
+<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
+</programme>
+<programme start="20230514233000 +0000" stop="20230515000000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >Behind the News</title>
+<desc lang="en">A current affairs daily program looking at a major news story of the day.</desc>
+</programme>
+<programme start="20230515000000 +0000" stop="20230515000500 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >News Summary</title>
+<desc lang="en">World news and Arab world developments.</desc>
+</programme>
+<programme start="20230515000500 +0000" stop="20230515005500 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >Doc</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230515005500 +0000" stop="20230515010000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >Weather Forecast</title>
+<desc lang="en">Bringing the latest weather news and the forecast.</desc>
+</programme>
+<programme start="20230515010000 +0000" stop="20230515013000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >News Bulletin</title>
+<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
+</programme>
+<programme start="20230515013000 +0000" stop="20230515020000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >The Traveller</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230515020000 +0000" stop="20230515020500 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >News Summary</title>
+<desc lang="en">World news and Arab world developments.</desc>
+</programme>
+<programme start="20230515020500 +0000" stop="20230515030000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >Doc</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230515030000 +0000" stop="20230515040000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >News Bulletin</title>
+<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
+</programme>
+<programme start="20230515040000 +0000" stop="20230515043000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >News Bulletin</title>
+<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
+</programme>
+<programme start="20230515043000 +0000" stop="20230515050000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >Behind the News</title>
+<desc lang="en">A current affairs daily program looking at a major news story of the day.</desc>
+</programme>
+<programme start="20230515050000 +0000" stop="20230515060000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >News Bulletin</title>
+<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
+</programme>
+<programme start="20230515060000 +0000" stop="20230515060500 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >News Summary</title>
+<desc lang="en">World news and Arab world developments.</desc>
+</programme>
+<programme start="20230515060500 +0000" stop="20230515070000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >Al Jazeera This Morning</title>
+<desc lang="en">Starting the day with news brought to you with interviews from Al Jazeera's global teams.</desc>
+</programme>
+<programme start="20230515070000 +0000" stop="20230515073000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >News Bulletin</title>
+<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
+</programme>
+<programme start="20230515073000 +0000" stop="20230515080000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >Beyond Authority</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230515080000 +0000" stop="20230515110000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >This Day</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230515110000 +0000" stop="20230515115500 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >News Bulletin</title>
+<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
+</programme>
+<programme start="20230515115500 +0000" stop="20230515120000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >Weather Forecast</title>
+<desc lang="en">Bringing the latest weather news and the forecast.</desc>
+</programme>
+<programme start="20230515120000 +0000" stop="20230515160000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >Al Jazeera Midday</title>
+<desc lang="en">Al Jazeera's global team provides today's news and interviews.</desc>
+</programme>
+<programme start="20230515160000 +0000" stop="20230515163000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >News Bulletin</title>
+<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
+</programme>
+<programme start="20230515163000 +0000" stop="20230515170000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >The Observatory</title>
+<desc lang="en">A weekly media-oriented show that features up-to-date Arab and world media issues.</desc>
+</programme>
+<programme start="20230515170000 +0000" stop="20230515173000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >News Summary</title>
+<desc lang="en">World news and Arab world developments.</desc>
+</programme>
+<programme start="20230515173000 +0000" stop="20230515180000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >Behind the News</title>
+<desc lang="en">A current affairs daily program looking at a major news story of the day.</desc>
+</programme>
+<programme start="20230515180000 +0000" stop="20230515190500 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >News Bulletin</title>
+<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
+</programme>
+<programme start="20230515190500 +0000" stop="20230515200000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >A Story and Follow Up</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230515200000 +0000" stop="20230515220000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >Today's Harvest</title>
+<desc lang="en">(Arabic) Combines major headline news of the day with in-depth analysis.</desc>
+</programme>
+<programme start="20230515220000 +0000" stop="20230515225500 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >News Bulletin</title>
+<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
+</programme>
+<programme start="20230515225500 +0000" stop="20230515230000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >Weather Forecast</title>
+<desc lang="en">Bringing the latest weather news and the forecast.</desc>
+</programme>
+<programme start="20230515230000 +0000" stop="20230515233000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >News Bulletin</title>
+<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
+</programme>
+<programme start="20230515233000 +0000" stop="20230516000000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >Behind the News</title>
+<desc lang="en">A current affairs daily program looking at a major news story of the day.</desc>
+</programme>
+<programme start="20230516000000 +0000" stop="20230516000500 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >News Summary</title>
+<desc lang="en">World news and Arab world developments.</desc>
+</programme>
+<programme start="20230516000500 +0000" stop="20230516005500 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >The Interview</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230516005500 +0000" stop="20230516010000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >Weather Forecast</title>
+<desc lang="en">Bringing the latest weather news and the forecast.</desc>
+</programme>
+<programme start="20230516010000 +0000" stop="20230516020000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >News Bulletin</title>
+<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
+</programme>
+<programme start="20230516020000 +0000" stop="20230516020500 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >News Summary</title>
+<desc lang="en">World news and Arab world developments.</desc>
+</programme>
+<programme start="20230516020500 +0000" stop="20230516030000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >Doc</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230516030000 +0000" stop="20230516033000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >News Bulletin</title>
+<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
+</programme>
+<programme start="20230516033000 +0000" stop="20230516040000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >The Observatory</title>
+<desc lang="en">A weekly media-oriented show that features up-to-date Arab and world media issues.</desc>
+</programme>
+<programme start="20230516040000 +0000" stop="20230516043000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >News Bulletin</title>
+<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
+</programme>
+<programme start="20230516043000 +0000" stop="20230516050000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >Behind the News</title>
+<desc lang="en">A current affairs daily program looking at a major news story of the day.</desc>
+</programme>
+<programme start="20230516050000 +0000" stop="20230516060000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >News Bulletin</title>
+<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
+</programme>
+<programme start="20230516060000 +0000" stop="20230516060500 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >News Summary</title>
+<desc lang="en">World news and Arab world developments.</desc>
+</programme>
+<programme start="20230516060500 +0000" stop="20230516070000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >Al Jazeera This Morning</title>
+<desc lang="en">Starting the day with news brought to you with interviews from Al Jazeera's global teams.</desc>
+</programme>
+<programme start="20230516070000 +0000" stop="20230516073000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >News Bulletin</title>
+<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
+</programme>
+<programme start="20230516073000 +0000" stop="20230516080000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >The Traveller</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230516080000 +0000" stop="20230516110000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >This Day</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230516110000 +0000" stop="20230516115500 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >News Bulletin</title>
+<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
+</programme>
+<programme start="20230516115500 +0000" stop="20230516120000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >Weather Forecast</title>
+<desc lang="en">Bringing the latest weather news and the forecast.</desc>
+</programme>
+<programme start="20230516120000 +0000" stop="20230516160000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >Al Jazeera Midday</title>
+<desc lang="en">Al Jazeera's global team provides today's news and interviews.</desc>
+</programme>
+<programme start="20230516160000 +0000" stop="20230516163000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >News Bulletin</title>
+<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
+</programme>
+<programme start="20230516163000 +0000" stop="20230516170000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >Contemplation</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230516170000 +0000" stop="20230516173000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >News Summary</title>
+<desc lang="en">World news and Arab world developments.</desc>
+</programme>
+<programme start="20230516173000 +0000" stop="20230516180000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >Behind the News</title>
+<desc lang="en">A current affairs daily program looking at a major news story of the day.</desc>
+</programme>
+<programme start="20230516180000 +0000" stop="20230516200000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >News Bulletin</title>
+<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
+</programme>
+<programme start="20230516200000 +0000" stop="20230516220000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >Today's Harvest</title>
+<desc lang="en">(Arabic) Combines major headline news of the day with in-depth analysis.</desc>
+</programme>
+<programme start="20230516220000 +0000" stop="20230516225500 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >News Bulletin</title>
+<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
+</programme>
+<programme start="20230516225500 +0000" stop="20230516230000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >Weather Forecast</title>
+<desc lang="en">Bringing the latest weather news and the forecast.</desc>
+</programme>
+<programme start="20230516230000 +0000" stop="20230516233000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >News Bulletin</title>
+<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
+</programme>
+<programme start="20230516233000 +0000" stop="20230517000000 +0000" channel="AlJazeera(Arabic).us">
+<title lang="en" >Behind the News</title>
+<desc lang="en">A current affairs daily program looking at a major news story of the day.</desc>
+</programme>
+<programme start="20230513000000 +0000" stop="20230513010000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >Canada Tonight With Dwight Drummond</title>
+<desc lang="en">Host Dwight Drummond explores the issues that matter to contemporary Canada.</desc>
+</programme>
+<programme start="20230513010000 +0000" stop="20230513020000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >The National</title>
+<desc lang="en">CBC's flagship nightly news program features the day's top stories with hosts Adrienne Aresenault and Andrew Chang in Toronto, Ian Hanomansing in Vancouver, and the CBC's chief political correspondent Rosemary Barton in Ottawa.</desc>
+</programme>
+<programme start="20230513020000 +0000" stop="20230513030000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >The National</title>
+<desc lang="en">CBC's flagship nightly news program features the day's top stories with hosts Adrienne Aresenault and Andrew Chang in Toronto, Ian Hanomansing in Vancouver, and the CBC's chief political correspondent Rosemary Barton in Ottawa.</desc>
+</programme>
+<programme start="20230513030000 +0000" stop="20230513040000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >The National</title>
+<desc lang="en">CBC's flagship nightly news program features the day's top stories with hosts Adrienne Aresenault and Andrew Chang in Toronto, Ian Hanomansing in Vancouver, and the CBC's chief political correspondent Rosemary Barton in Ottawa.</desc>
+</programme>
+<programme start="20230513040000 +0000" stop="20230513050000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >The National</title>
+<desc lang="en">CBC's flagship nightly news program features the day's top stories with hosts Adrienne Aresenault and Andrew Chang in Toronto, Ian Hanomansing in Vancouver, and the CBC's chief political correspondent Rosemary Barton in Ottawa.</desc>
+</programme>
+<programme start="20230513050000 +0000" stop="20230513060000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >The National</title>
+<desc lang="en">CBC's flagship nightly news program features the day's top stories with hosts Adrienne Aresenault and Andrew Chang in Toronto, Ian Hanomansing in Vancouver, and the CBC's chief political correspondent Rosemary Barton in Ottawa.</desc>
+</programme>
+<programme start="20230513060000 +0000" stop="20230513070000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >The National</title>
+<desc lang="en">CBC's flagship nightly news program features the day's top stories with hosts Adrienne Aresenault and Andrew Chang in Toronto, Ian Hanomansing in Vancouver, and the CBC's chief political correspondent Rosemary Barton in Ottawa.</desc>
+</programme>
+<programme start="20230513070000 +0000" stop="20230513080000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >The National</title>
+<desc lang="en">CBC's flagship nightly news program features the day's top stories with hosts Adrienne Aresenault and Andrew Chang in Toronto, Ian Hanomansing in Vancouver, and the CBC's chief political correspondent Rosemary Barton in Ottawa.</desc>
+</programme>
+<programme start="20230513080000 +0000" stop="20230513090000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >The National</title>
+<desc lang="en">CBC's flagship nightly news program features the day's top stories with hosts Adrienne Aresenault and Andrew Chang in Toronto, Ian Hanomansing in Vancouver, and the CBC's chief political correspondent Rosemary Barton in Ottawa.</desc>
+</programme>
+<programme start="20230513090000 +0000" stop="20230513100000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >The National</title>
+<desc lang="en">CBC's flagship nightly news program features the day's top stories with hosts Adrienne Aresenault and Andrew Chang in Toronto, Ian Hanomansing in Vancouver, and the CBC's chief political correspondent Rosemary Barton in Ottawa.</desc>
+</programme>
+<programme start="20230513100000 +0000" stop="20230513150000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >CBC News Network</title>
+<desc lang="en">News from Canada and around the world; from Vancouver.</desc>
+</programme>
+<programme start="20230513150000 +0000" stop="20230513200000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >CBC News Network With Natasha Fatah</title>
+<desc lang="en">Stories from around Canada and the world.</desc>
+</programme>
+<programme start="20230513200000 +0000" stop="20230513210000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >CBC News Network</title>
+<desc lang="en">News from Canada and around the world; from Vancouver.</desc>
+</programme>
+<programme start="20230513210000 +0000" stop="20230513213000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >CBC News Network</title>
+<desc lang="en">News from Canada and around the world; from Vancouver.</desc>
+</programme>
+<programme start="20230513213000 +0000" stop="20230513220000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >Marketplace</title>
+<desc lang="en">Rose Marchitelli and Charlsie Argo test the sizing of jeans; putting the safety of motorcycle helmets to the test; eco-friendly alternatives to balloons.</desc>
+</programme>
+<programme start="20230513220000 +0000" stop="20230513223000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >CBC News Live</title>
+<desc lang="en">Providing breaking and live coverage with updated COVID-19 information for Canadians.</desc>
+</programme>
+<programme start="20230513223000 +0000" stop="20230513230000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >CBC News: At Issue</title>
+<desc lang="en">Peter Mansbridge hosts this half-hour political forum, which features panelists Andrew Coyne, Chantal Hebert and Allan Gregg discussing the hot topics in Canadian politics.</desc>
+</programme>
+<programme start="20230513230000 +0000" stop="20230514000000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >The Fifth Estate</title>
+<desc lang="en">What happened when Russian soldiers who had retreated from a Ukrainian village were tracked down by journalists, including a surprising confession.</desc>
+</programme>
+<programme start="20230514000000 +0000" stop="20230514010000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >The Nature of Things</title>
+<desc lang="en">Delving deep inside the kitchen to reveal the delicious chemistry, physics, and microbiology of cooking.</desc>
+</programme>
+<programme start="20230514010000 +0000" stop="20230514013000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >CBC News Live</title>
+<desc lang="en">Providing breaking and live coverage with updated COVID-19 information for Canadians.</desc>
+</programme>
+<programme start="20230514013000 +0000" stop="20230514020000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >Marketplace</title>
+<desc lang="en">Rose Marchitelli and Charlsie Argo test the sizing of jeans; putting the safety of motorcycle helmets to the test; eco-friendly alternatives to balloons.</desc>
+</programme>
+<programme start="20230514020000 +0000" stop="20230514030000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >The Nature of Things</title>
+<desc lang="en">Delving deep inside the kitchen to reveal the delicious chemistry, physics, and microbiology of cooking.</desc>
+</programme>
+<programme start="20230514030000 +0000" stop="20230514033000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >CBC News Network</title>
+<desc lang="en">News from Canada and around the world; from Vancouver.</desc>
+</programme>
+<programme start="20230514033000 +0000" stop="20230514040000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >Marketplace</title>
+<desc lang="en">Rose Marchitelli and Charlsie Argo test the sizing of jeans; putting the safety of motorcycle helmets to the test; eco-friendly alternatives to balloons.</desc>
+</programme>
+<programme start="20230514040000 +0000" stop="20230514043000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >CBC News Network</title>
+<desc lang="en">News from Canada and around the world; from Vancouver.</desc>
+</programme>
+<programme start="20230514043000 +0000" stop="20230514050000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >CBC News: At Issue</title>
+<desc lang="en">Peter Mansbridge hosts this half-hour political forum, which features panelists Andrew Coyne, Chantal Hebert and Allan Gregg discussing the hot topics in Canadian politics.</desc>
+</programme>
+<programme start="20230514050000 +0000" stop="20230514060000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >The Fifth Estate</title>
+<desc lang="en">What happened when Russian soldiers who had retreated from a Ukrainian village were tracked down by journalists, including a surprising confession.</desc>
+</programme>
+<programme start="20230514060000 +0000" stop="20230514063000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >CBC News Network</title>
+<desc lang="en">News from Canada and around the world; from Vancouver.</desc>
+</programme>
+<programme start="20230514063000 +0000" stop="20230514070000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >CBC News: At Issue</title>
+<desc lang="en">Peter Mansbridge hosts this half-hour political forum, which features panelists Andrew Coyne, Chantal Hebert and Allan Gregg discussing the hot topics in Canadian politics.</desc>
+</programme>
+<programme start="20230514070000 +0000" stop="20230514073000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >CBC News Network</title>
+<desc lang="en">News from Canada and around the world; from Vancouver.</desc>
+</programme>
+<programme start="20230514073000 +0000" stop="20230514080000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >CBC News Network</title>
+<desc lang="en">News from Canada and around the world; from Vancouver.</desc>
+</programme>
+<programme start="20230514080000 +0000" stop="20230514090000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >The Nature of Things</title>
+<desc lang="en">Delving deep inside the kitchen to reveal the delicious chemistry, physics, and microbiology of cooking.</desc>
+</programme>
+<programme start="20230514090000 +0000" stop="20230514093000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >CBC News Network</title>
+<desc lang="en">News from Canada and around the world; from Vancouver.</desc>
+</programme>
+<programme start="20230514093000 +0000" stop="20230514100000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >CBC News Network</title>
+<desc lang="en">News from Canada and around the world; from Vancouver.</desc>
+</programme>
+<programme start="20230514100000 +0000" stop="20230514140000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >CBC News Network</title>
+<desc lang="en">News from Canada and around the world; from Vancouver.</desc>
+</programme>
+<programme start="20230514140000 +0000" stop="20230514160000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >Rosemary Barton Live</title>
+<desc lang="en">Rosemary Barton will deliver a weekly dose of compelling conversations and need-to-know political news and issues affecting Canadians; tackling the latest political headlines through the lens of people living them.</desc>
+</programme>
+<programme start="20230514160000 +0000" stop="20230514200000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >CBC News Network With Natasha Fatah</title>
+<desc lang="en">Stories from around Canada and the world.</desc>
+</programme>
+<programme start="20230514200000 +0000" stop="20230514210000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >Cross Country Check-up with Ian Hanomansing</title>
+<desc lang="en">A lively discussion on an issue of national interest, hosted by Ian Hanomansing.</desc>
+</programme>
+<programme start="20230514210000 +0000" stop="20230514230000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >Rosemary Barton Live</title>
+<desc lang="en">Rosemary Barton will deliver a weekly dose of compelling conversations and need-to-know political news and issues affecting Canadians; tackling the latest political headlines through the lens of people living them.</desc>
+</programme>
+<programme start="20230514230000 +0000" stop="20230515000000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >The Fifth Estate</title>
+<desc lang="en">What happened when Russian soldiers who had retreated from a Ukrainian village were tracked down by journalists, including a surprising confession.</desc>
+</programme>
+<programme start="20230515000000 +0000" stop="20230515010000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >CBC News Network</title>
+<desc lang="en">News from Canada and around the world; from Vancouver.</desc>
+</programme>
+<programme start="20230515010000 +0000" stop="20230515020000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >The National</title>
+<desc lang="en">CBC's flagship nightly news program features the day's top stories with hosts Adrienne Aresenault and Andrew Chang in Toronto, Ian Hanomansing in Vancouver, and the CBC's chief political correspondent Rosemary Barton in Ottawa.</desc>
+</programme>
+<programme start="20230515020000 +0000" stop="20230515030000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >The National</title>
+<desc lang="en">CBC's flagship nightly news program features the day's top stories with hosts Adrienne Aresenault and Andrew Chang in Toronto, Ian Hanomansing in Vancouver, and the CBC's chief political correspondent Rosemary Barton in Ottawa.</desc>
+</programme>
+<programme start="20230515030000 +0000" stop="20230515040000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >The National</title>
+<desc lang="en">CBC's flagship nightly news program features the day's top stories with hosts Adrienne Aresenault and Andrew Chang in Toronto, Ian Hanomansing in Vancouver, and the CBC's chief political correspondent Rosemary Barton in Ottawa.</desc>
+</programme>
+<programme start="20230515040000 +0000" stop="20230515050000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >The National</title>
+<desc lang="en">CBC's flagship nightly news program features the day's top stories with hosts Adrienne Aresenault and Andrew Chang in Toronto, Ian Hanomansing in Vancouver, and the CBC's chief political correspondent Rosemary Barton in Ottawa.</desc>
+</programme>
+<programme start="20230515050000 +0000" stop="20230515060000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >The National</title>
+<desc lang="en">CBC's flagship nightly news program features the day's top stories with hosts Adrienne Aresenault and Andrew Chang in Toronto, Ian Hanomansing in Vancouver, and the CBC's chief political correspondent Rosemary Barton in Ottawa.</desc>
+</programme>
+<programme start="20230515060000 +0000" stop="20230515070000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >The Nature of Things</title>
+<desc lang="en">Delving deep inside the kitchen to reveal the delicious chemistry, physics, and microbiology of cooking.</desc>
+</programme>
+<programme start="20230515070000 +0000" stop="20230515080000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >The National</title>
+<desc lang="en">CBC's flagship nightly news program features the day's top stories with hosts Adrienne Aresenault and Andrew Chang in Toronto, Ian Hanomansing in Vancouver, and the CBC's chief political correspondent Rosemary Barton in Ottawa.</desc>
+</programme>
+<programme start="20230515080000 +0000" stop="20230515090000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >The National</title>
+<desc lang="en">CBC's flagship nightly news program features the day's top stories with hosts Adrienne Aresenault and Andrew Chang in Toronto, Ian Hanomansing in Vancouver, and the CBC's chief political correspondent Rosemary Barton in Ottawa.</desc>
+</programme>
+<programme start="20230515090000 +0000" stop="20230515100000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >The National</title>
+<desc lang="en">CBC's flagship nightly news program features the day's top stories with hosts Adrienne Aresenault and Andrew Chang in Toronto, Ian Hanomansing in Vancouver, and the CBC's chief political correspondent Rosemary Barton in Ottawa.</desc>
+</programme>
+<programme start="20230515100000 +0000" stop="20230515140000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >CBC Morning Live with Heather Hiscox</title>
+<desc lang="en">From Toronto.</desc>
+</programme>
+<programme start="20230515140000 +0000" stop="20230515170000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >CBC News Network With Aarti Pole</title>
+<desc lang="en">Coverage of the day's top news stories from across Canada and around the world.</desc>
+</programme>
+<programme start="20230515170000 +0000" stop="20230515200000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >CBC News Network With Hannah Thibedeau</title>
+<desc lang="en">News of the day, from Canada and around the world.</desc>
+</programme>
+<programme start="20230515200000 +0000" stop="20230515210000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >CBC Rundown With Andrew Nichols</title>
+<desc lang="en">Host Andrew Nichols runs down the breaking news stories of the day and gets answers to your pandemic questions.</desc>
+</programme>
+<programme start="20230515210000 +0000" stop="20230515230000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >Power &amp; Politics</title>
+<desc lang="en">Interviews offer an in-depth look at how politicians and their policies affect Canadians.</desc>
+</programme>
+<programme start="20230515230000 +0000" stop="20230516000000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >CBC Rundown With Andrew Nichols</title>
+<desc lang="en">Host Andrew Nichols runs down the breaking news stories of the day and gets answers to your pandemic questions.</desc>
+</programme>
+<programme start="20230516000000 +0000" stop="20230516010000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >Canada Tonight With Dwight Drummond</title>
+<desc lang="en">Host Dwight Drummond explores the issues that matter to contemporary Canada.</desc>
+</programme>
+<programme start="20230516010000 +0000" stop="20230516020000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >The National</title>
+<desc lang="en">CBC's flagship nightly news program features the day's top stories with hosts Adrienne Aresenault and Andrew Chang in Toronto, Ian Hanomansing in Vancouver, and the CBC's chief political correspondent Rosemary Barton in Ottawa.</desc>
+</programme>
+<programme start="20230516020000 +0000" stop="20230516030000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >The National</title>
+<desc lang="en">CBC's flagship nightly news program features the day's top stories with hosts Adrienne Aresenault and Andrew Chang in Toronto, Ian Hanomansing in Vancouver, and the CBC's chief political correspondent Rosemary Barton in Ottawa.</desc>
+</programme>
+<programme start="20230516030000 +0000" stop="20230516040000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >The National</title>
+<desc lang="en">CBC's flagship nightly news program features the day's top stories with hosts Adrienne Aresenault and Andrew Chang in Toronto, Ian Hanomansing in Vancouver, and the CBC's chief political correspondent Rosemary Barton in Ottawa.</desc>
+</programme>
+<programme start="20230516040000 +0000" stop="20230516050000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >The National</title>
+<desc lang="en">CBC's flagship nightly news program features the day's top stories with hosts Adrienne Aresenault and Andrew Chang in Toronto, Ian Hanomansing in Vancouver, and the CBC's chief political correspondent Rosemary Barton in Ottawa.</desc>
+</programme>
+<programme start="20230516050000 +0000" stop="20230516060000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >The National</title>
+<desc lang="en">CBC's flagship nightly news program features the day's top stories with hosts Adrienne Aresenault and Andrew Chang in Toronto, Ian Hanomansing in Vancouver, and the CBC's chief political correspondent Rosemary Barton in Ottawa.</desc>
+</programme>
+<programme start="20230516060000 +0000" stop="20230516070000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >The National</title>
+<desc lang="en">CBC's flagship nightly news program features the day's top stories with hosts Adrienne Aresenault and Andrew Chang in Toronto, Ian Hanomansing in Vancouver, and the CBC's chief political correspondent Rosemary Barton in Ottawa.</desc>
+</programme>
+<programme start="20230516070000 +0000" stop="20230516080000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >The National</title>
+<desc lang="en">CBC's flagship nightly news program features the day's top stories with hosts Adrienne Aresenault and Andrew Chang in Toronto, Ian Hanomansing in Vancouver, and the CBC's chief political correspondent Rosemary Barton in Ottawa.</desc>
+</programme>
+<programme start="20230516080000 +0000" stop="20230516090000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >The National</title>
+<desc lang="en">CBC's flagship nightly news program features the day's top stories with hosts Adrienne Aresenault and Andrew Chang in Toronto, Ian Hanomansing in Vancouver, and the CBC's chief political correspondent Rosemary Barton in Ottawa.</desc>
+</programme>
+<programme start="20230516090000 +0000" stop="20230516100000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >The National</title>
+<desc lang="en">CBC's flagship nightly news program features the day's top stories with hosts Adrienne Aresenault and Andrew Chang in Toronto, Ian Hanomansing in Vancouver, and the CBC's chief political correspondent Rosemary Barton in Ottawa.</desc>
+</programme>
+<programme start="20230516100000 +0000" stop="20230516140000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >CBC Morning Live with Heather Hiscox</title>
+<desc lang="en">From Toronto.</desc>
+</programme>
+<programme start="20230516140000 +0000" stop="20230516170000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >CBC News Network With Aarti Pole</title>
+<desc lang="en">Coverage of the day's top news stories from across Canada and around the world.</desc>
+</programme>
+<programme start="20230516170000 +0000" stop="20230516200000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >CBC News Network With Hannah Thibedeau</title>
+<desc lang="en">News of the day, from Canada and around the world.</desc>
+</programme>
+<programme start="20230516200000 +0000" stop="20230516210000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >CBC Rundown With Andrew Nichols</title>
+<desc lang="en">Host Andrew Nichols runs down the breaking news stories of the day and gets answers to your pandemic questions.</desc>
+</programme>
+<programme start="20230516210000 +0000" stop="20230516230000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >Power &amp; Politics</title>
+<desc lang="en">Interviews offer an in-depth look at how politicians and their policies affect Canadians.</desc>
+</programme>
+<programme start="20230516230000 +0000" stop="20230517000000 +0000" channel="CBCNewsNetwork(English).ca">
+<title lang="en" >CBC Rundown With Andrew Nichols</title>
+<desc lang="en">Host Andrew Nichols runs down the breaking news stories of the day and gets answers to your pandemic questions.</desc>
+</programme>
+<programme start="20230513003000 +0000" stop="20230513083000 +0000" channel="DWArabia(English).ch">
+<title lang="en" >To Be Announced</title>
+<desc lang="en">Programming to be announced.</desc>
+</programme>
+<programme start="20230513083000 +0000" stop="20230513163000 +0000" channel="DWArabia(English).ch">
+<title lang="en" >To Be Announced</title>
+<desc lang="en">Programming to be announced.</desc>
+</programme>
+<programme start="20230513163000 +0000" stop="20230514003000 +0000" channel="DWArabia(English).ch">
+<title lang="en" >To Be Announced</title>
+<desc lang="en">Programming to be announced.</desc>
+</programme>
+<programme start="20230514003000 +0000" stop="20230514083000 +0000" channel="DWArabia(English).ch">
+<title lang="en" >To Be Announced</title>
+<desc lang="en">Programming to be announced.</desc>
+</programme>
+<programme start="20230514083000 +0000" stop="20230514163000 +0000" channel="DWArabia(English).ch">
+<title lang="en" >To Be Announced</title>
+<desc lang="en">Programming to be announced.</desc>
+</programme>
+<programme start="20230514163000 +0000" stop="20230515003000 +0000" channel="DWArabia(English).ch">
+<title lang="en" >To Be Announced</title>
+<desc lang="en">Programming to be announced.</desc>
+</programme>
+<programme start="20230515003000 +0000" stop="20230515083000 +0000" channel="DWArabia(English).ch">
+<title lang="en" >To Be Announced</title>
+<desc lang="en">Programming to be announced.</desc>
+</programme>
+<programme start="20230515083000 +0000" stop="20230515163000 +0000" channel="DWArabia(English).ch">
+<title lang="en" >To Be Announced</title>
+<desc lang="en">Programming to be announced.</desc>
+</programme>
+<programme start="20230515163000 +0000" stop="20230516003000 +0000" channel="DWArabia(English).ch">
+<title lang="en" >To Be Announced</title>
+<desc lang="en">Programming to be announced.</desc>
+</programme>
+<programme start="20230516003000 +0000" stop="20230516010000 +0000" channel="DWArabia(English).ch">
+<title lang="en" >Al Dawri Al Almani</title>
+<desc lang="en">Experts analyse the matches played in Bundesliga, a football league in Germany.</desc>
+</programme>
+<programme start="20230516010000 +0000" stop="20230516011500 +0000" channel="DWArabia(English).ch">
+<title lang="en" >Click</title>
+<desc lang="en">The host presents the latest news and updates from the world of consumer technology.</desc>
+</programme>
+<programme start="20230516011500 +0000" stop="20230516020000 +0000" channel="DWArabia(English).ch">
+<title lang="en" >Al Zelzal Al Asyawi-Azmah Maleyah Wa Tab'toha</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230516020000 +0000" stop="20230516023000 +0000" channel="DWArabia(English).ch">
+<title lang="en" >Al Awlamah 3000</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230516023000 +0000" stop="20230516030000 +0000" channel="DWArabia(English).ch">
+<title lang="en" >Al Dawri Al Almani</title>
+<desc lang="en">Experts analyse the matches played in Bundesliga, a football league in Germany.</desc>
+</programme>
+<programme start="20230516030000 +0000" stop="20230516031500 +0000" channel="DWArabia(English).ch">
+<title lang="en" >Click</title>
+<desc lang="en">The host presents the latest news and updates from the world of consumer technology.</desc>
+</programme>
+<programme start="20230516031500 +0000" stop="20230516040000 +0000" channel="DWArabia(English).ch">
+<title lang="en" >Mooseeqa Oorobbeyyah</title>
+<desc lang="en">Europe's best rock and pop musicians, bands and artists perform some of their songs.</desc>
+</programme>
+<programme start="20230516040000 +0000" stop="20230516043000 +0000" channel="DWArabia(English).ch">
+<title lang="en" >Tahadeyyat Al Asr - Hal Nodhay' Hayatona Fi Al La'b?</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230516043000 +0000" stop="20230516050000 +0000" channel="DWArabia(English).ch">
+<title lang="en" >Al Dawri Al Almani</title>
+<desc lang="en">Experts analyse the matches played in Bundesliga, a football league in Germany.</desc>
+</programme>
+<programme start="20230516050000 +0000" stop="20230516060000 +0000" channel="DWArabia(English).ch">
+<title lang="en" >Al Basheer Show Al Jomhoreyyah</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230516060000 +0000" stop="20230516063000 +0000" channel="DWArabia(English).ch">
+<title lang="en" >Tahadeyyat Al Asr - Hal Nodhay' Hayatona Fi Al La'b?</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230516063000 +0000" stop="20230516070000 +0000" channel="DWArabia(English).ch">
+<title lang="en" >A'ynon A'la Oroba</title>
+<desc lang="en">European citizens living in different cities talk about their lives in diverse societies.</desc>
+</programme>
+<programme start="20230516070000 +0000" stop="20230516071500 +0000" channel="DWArabia(English).ch">
+<title lang="en" >Click</title>
+<desc lang="en">The host presents the latest news and updates from the world of consumer technology.</desc>
+</programme>
+<programme start="20230516071500 +0000" stop="20230516080000 +0000" channel="DWArabia(English).ch">
+<title lang="en" >Al Zelzal Al Asyawi-Azmah Maleyah Wa Tab'toha</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230516080000 +0000" stop="20230516083000 +0000" channel="DWArabia(English).ch">
+<title lang="en" >Al Awlamah 3000</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230516083000 +0000" stop="20230516090000 +0000" channel="DWArabia(English).ch">
+<title lang="en" >Al Dawri Al Almani</title>
+<desc lang="en">Experts analyse the matches played in Bundesliga, a football league in Germany.</desc>
+</programme>
+<programme start="20230516090000 +0000" stop="20230516100000 +0000" channel="DWArabia(English).ch">
+<title lang="en" >Isra'eel - Nash'at Dawlah</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230516100000 +0000" stop="20230516103000 +0000" channel="DWArabia(English).ch">
+<title lang="en" >An Kathab</title>
+<desc lang="en">The narrator explores the global political and social developments from around the world.</desc>
+</programme>
+<programme start="20230516103000 +0000" stop="20230516110000 +0000" channel="DWArabia(English).ch">
+<title lang="en" >A'ynon A'la Oroba</title>
+<desc lang="en">European citizens living in different cities talk about their lives in diverse societies.</desc>
+</programme>
+<programme start="20230516110000 +0000" stop="20230516111500 +0000" channel="DWArabia(English).ch">
+<title lang="en" >Click</title>
+<desc lang="en">The host presents the latest news and updates from the world of consumer technology.</desc>
+</programme>
+<programme start="20230516111500 +0000" stop="20230516120000 +0000" channel="DWArabia(English).ch">
+<title lang="en" >Mooseeqa Oorobbeyyah</title>
+<desc lang="en">Europe's best rock and pop musicians, bands and artists perform some of their songs.</desc>
+</programme>
+<programme start="20230516120000 +0000" stop="20230516123000 +0000" channel="DWArabia(English).ch">
+<title lang="en" >Al Awlamah 3000</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230516123000 +0000" stop="20230516130000 +0000" channel="DWArabia(English).ch">
+<title lang="en" >Al Dawri Al Almani</title>
+<desc lang="en">Experts analyse the matches played in Bundesliga, a football league in Germany.</desc>
+</programme>
+<programme start="20230516130000 +0000" stop="20230516140000 +0000" channel="DWArabia(English).ch">
+<title lang="en" >Al Basheer Show Al Jomhoreyyah</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230516140000 +0000" stop="20230516143000 +0000" channel="DWArabia(English).ch">
+<title lang="en" >A'ynon A'la Oroba</title>
+<desc lang="en">European citizens living in different cities talk about their lives in diverse societies.</desc>
+</programme>
+<programme start="20230516143000 +0000" stop="20230516150000 +0000" channel="DWArabia(English).ch">
+<title lang="en" >Tahadeyyat Al Asr - Hal Nodhay' Hayatona Fi Al La'b?</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230516150000 +0000" stop="20230516151500 +0000" channel="DWArabia(English).ch">
+<title lang="en" >Moraseloon Hawl Al A'alam</title>
+<desc lang="en">Journalists give an up to date explanation the latest news from different parts around the world.</desc>
+</programme>
+<programme start="20230516151500 +0000" stop="20230516160000 +0000" channel="DWArabia(English).ch">
+<title lang="en" >Osman Kavala Sawt Men Wara' Al Qodhban</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230516160000 +0000" stop="20230516163000 +0000" channel="DWArabia(English).ch">
+<title lang="en" >Al Awlamah 3000</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230516163000 +0000" stop="20230516170000 +0000" channel="DWArabia(English).ch">
+<title lang="en" >An Kathab</title>
+<desc lang="en">The narrator explores the global political and social developments from around the world.</desc>
+</programme>
+<programme start="20230516170000 +0000" stop="20230516173000 +0000" channel="DWArabia(English).ch">
+<title lang="en" >Al Akhbar</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230516173000 +0000" stop="20230516180000 +0000" channel="DWArabia(English).ch">
+<title lang="en" >Al Dawri Al Almani</title>
+<desc lang="en">Experts analyse the matches played in Bundesliga, a football league in Germany.</desc>
+</programme>
+<programme start="20230516180000 +0000" stop="20230516180300 +0000" channel="DWArabia(English).ch">
+<title lang="en" >Al Akhbar</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230516180300 +0000" stop="20230516183000 +0000" channel="DWArabia(English).ch">
+<title lang="en" >Ja'far Talk</title>
+<desc lang="en">Jaafar tackles socially sensitive issues and gathers inspirational and empowering stories.</desc>
+</programme>
+<programme start="20230516183000 +0000" stop="20230516190000 +0000" channel="DWArabia(English).ch">
+<title lang="en" >Ja'far Talk</title>
+<desc lang="en">Jaafar tackles socially sensitive issues and gathers inspirational and empowering stories.</desc>
+</programme>
+<programme start="20230516190000 +0000" stop="20230516190300 +0000" channel="DWArabia(English).ch">
+<title lang="en" >Al Akhbar</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230516190300 +0000" stop="20230516200000 +0000" channel="DWArabia(English).ch">
+<title lang="en" >DW Masa'yah</title>
+<desc lang="en">The host invites a group of experts and journalists to analyse the most up to date news.</desc>
+</programme>
+<programme start="20230516200000 +0000" stop="20230516200300 +0000" channel="DWArabia(English).ch">
+<title lang="en" >Al Akhbar</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230516200300 +0000" stop="20230516203000 +0000" channel="DWArabia(English).ch">
+<title lang="en" >Al Dawri Al Almani</title>
+<desc lang="en">Experts analyse the matches played in Bundesliga, a football league in Germany.</desc>
+</programme>
+<programme start="20230516203000 +0000" stop="20230516210000 +0000" channel="DWArabia(English).ch">
+<title lang="en" >Al Awlamah 3000</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230516210000 +0000" stop="20230516213000 +0000" channel="DWArabia(English).ch">
+<title lang="en" >Al Akhbar</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230516213000 +0000" stop="20230516220000 +0000" channel="DWArabia(English).ch">
+<title lang="en" >Tahadeyyat Al Asr - Hal Nodhay' Hayatona Fi Al La'b?</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230516220000 +0000" stop="20230516220300 +0000" channel="DWArabia(English).ch">
+<title lang="en" >Al Akhbar</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230516220300 +0000" stop="20230516230000 +0000" channel="DWArabia(English).ch">
+<title lang="en" >Ja'far Talk</title>
+<desc lang="en">Jaafar tackles socially sensitive issues and gathers inspirational and empowering stories.</desc>
+</programme>
+<programme start="20230516230000 +0000" stop="20230516230300 +0000" channel="DWArabia(English).ch">
+<title lang="en" >Al Akhbar</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20230516230300 +0000" stop="20230517000000 +0000" channel="DWArabia(English).ch">
+<title lang="en" >DW Masa'yah</title>
+<desc lang="en">The host invites a group of experts and journalists to analyse the most up to date news.</desc>
+</programme>
+<programme start="20230513000000 +0000" stop="20230513003000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230513003000 +0000" stop="20230513010000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Fil Iqtisad</title>
+<desc lang="en-GB">Bringing you the best in television and entertainment programming.</desc>
+</programme>
+<programme start="20230513010000 +0000" stop="20230513020000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Alam Al Yawm</title>
+<desc lang="en-GB">Bringing you the latest from around the globe as it happens and going beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230513020000 +0000" stop="20230513033000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Yeni Sabah</title>
+<desc lang="en-GB">News show, focusing on human, cultural and health stories, plus knowledge, technology and lifestyle content from Türkiye and the world.</desc>
+</programme>
+<programme start="20230513033000 +0000" stop="20230513040000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Wa Lana Waqfa</title>
+<desc lang="en-GB">High-profile guests debate and discuss various topics with in-depth analysis.</desc>
+</programme>
+<programme start="20230513040000 +0000" stop="20230513043000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Min Ankara</title>
+<desc lang="en-GB">From Ankara program the source of news in everything related to Turkish affairs inside and outside the country.</desc>
+</programme>
+<programme start="20230513043000 +0000" stop="20230513050000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Fil Riyada</title>
+<desc lang="en-GB">Following the latest sports news and a tour with the most important events in social media..</desc>
+</programme>
+<programme start="20230513050000 +0000" stop="20230513053000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230513053000 +0000" stop="20230513060000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Fil Iqtisad</title>
+<desc lang="en-GB">Bringing you the best in television and entertainment programming.</desc>
+</programme>
+<programme start="20230513060000 +0000" stop="20230513063000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230513063000 +0000" stop="20230513070000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Wa Lana Waqfa</title>
+<desc lang="en-GB">High-profile guests debate and discuss various topics with in-depth analysis.</desc>
+</programme>
+<programme start="20230513070000 +0000" stop="20230513083000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Yeni Sabah</title>
+<desc lang="en-GB">News show, focusing on human, cultural and health stories, plus knowledge, technology and lifestyle content from Türkiye and the world.</desc>
+</programme>
+<programme start="20230513083000 +0000" stop="20230513090000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Fil Riyada</title>
+<desc lang="en-GB">Following the latest sports news and a tour with the most important events in social media..</desc>
+</programme>
+<programme start="20230513090000 +0000" stop="20230513093000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230513093000 +0000" stop="20230513100000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Men Haky</title>
+<desc lang="en-GB">Men Haky is a series of episodes about the basic human rights being violated nearly seven decades after the proclamation of the Human Rights Declaration.</desc>
+</programme>
+<programme start="20230513100000 +0000" stop="20230513110000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230513110000 +0000" stop="20230513113000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230513113000 +0000" stop="20230513120000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Fil Iqtisad</title>
+<desc lang="en-GB">Bringing you the best in television and entertainment programming.</desc>
+</programme>
+<programme start="20230513120000 +0000" stop="20230513123000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230513123000 +0000" stop="20230513130000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Wa Lana Waqfa</title>
+<desc lang="en-GB">High-profile guests debate and discuss various topics with in-depth analysis.</desc>
+</programme>
+<programme start="20230513130000 +0000" stop="20230513133000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230513133000 +0000" stop="20230513140000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Qissa Vema Fiha</title>
+<desc lang="en-GB">TRT arabi correspondents shed light on different events across the globe.</desc>
+</programme>
+<programme start="20230513140000 +0000" stop="20230513150000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230513150000 +0000" stop="20230513153000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230513153000 +0000" stop="20230513160000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Mosaic</title>
+<desc lang="en-GB">Journeying through the world of culture and art.</desc>
+</programme>
+<programme start="20230513160000 +0000" stop="20230513163000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230513163000 +0000" stop="20230513170000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Fil Iqtisad</title>
+<desc lang="en-GB">Bringing you the best in television and entertainment programming.</desc>
+</programme>
+<programme start="20230513170000 +0000" stop="20230513173000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230513173000 +0000" stop="20230513180000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Fil Riyada</title>
+<desc lang="en-GB">Following the latest sports news and a tour with the most important events in social media..</desc>
+</programme>
+<programme start="20230513180000 +0000" stop="20230513183000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Wa Lana Waqfa</title>
+<desc lang="en-GB">High-profile guests debate and discuss various topics with in-depth analysis.</desc>
+</programme>
+<programme start="20230513183000 +0000" stop="20230513190000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Men Haky</title>
+<desc lang="en-GB">Men Haky is a series of episodes about the basic human rights being violated nearly seven decades after the proclamation of the Human Rights Declaration.</desc>
+</programme>
+<programme start="20230513190000 +0000" stop="20230513193000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230513193000 +0000" stop="20230513200000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Qissa Vema Fiha</title>
+<desc lang="en-GB">TRT arabi correspondents shed light on different events across the globe.</desc>
+</programme>
+<programme start="20230513200000 +0000" stop="20230513210000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Alam Al Yawm</title>
+<desc lang="en-GB">Bringing you the latest from around the globe as it happens and going beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230513210000 +0000" stop="20230513213000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230513213000 +0000" stop="20230513220000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Fil Iqtisad</title>
+<desc lang="en-GB">Bringing you the best in television and entertainment programming.</desc>
+</programme>
+<programme start="20230513220000 +0000" stop="20230513223000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230513223000 +0000" stop="20230513230000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Fil Riyada</title>
+<desc lang="en-GB">Following the latest sports news and a tour with the most important events in social media..</desc>
+</programme>
+<programme start="20230513230000 +0000" stop="20230513233000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230513233000 +0000" stop="20230514000000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Wa Lana Waqfa</title>
+<desc lang="en-GB">High-profile guests debate and discuss various topics with in-depth analysis.</desc>
+</programme>
+<programme start="20230514000000 +0000" stop="20230514003000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230514003000 +0000" stop="20230514010000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Fil Iqtisad</title>
+<desc lang="en-GB">Bringing you the best in television and entertainment programming.</desc>
+</programme>
+<programme start="20230514010000 +0000" stop="20230514020000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Alam Al Yawm</title>
+<desc lang="en-GB">Bringing you the latest from around the globe as it happens and going beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230514020000 +0000" stop="20230514033000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Yeni Sabah</title>
+<desc lang="en-GB">News show, focusing on human, cultural and health stories, plus knowledge, technology and lifestyle content from Türkiye and the world.</desc>
+</programme>
+<programme start="20230514033000 +0000" stop="20230514040000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Wa Lana Waqfa</title>
+<desc lang="en-GB">High-profile guests debate and discuss various topics with in-depth analysis.</desc>
+</programme>
+<programme start="20230514040000 +0000" stop="20230514043000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Men Haky</title>
+<desc lang="en-GB">Men Haky is a series of episodes about the basic human rights being violated nearly seven decades after the proclamation of the Human Rights Declaration.</desc>
+</programme>
+<programme start="20230514043000 +0000" stop="20230514050000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Fil Riyada</title>
+<desc lang="en-GB">Following the latest sports news and a tour with the most important events in social media..</desc>
+</programme>
+<programme start="20230514050000 +0000" stop="20230514053000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230514053000 +0000" stop="20230514060000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Fil Iqtisad</title>
+<desc lang="en-GB">Bringing you the best in television and entertainment programming.</desc>
+</programme>
+<programme start="20230514060000 +0000" stop="20230514063000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230514063000 +0000" stop="20230514070000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Wa Lana Waqfa</title>
+<desc lang="en-GB">High-profile guests debate and discuss various topics with in-depth analysis.</desc>
+</programme>
+<programme start="20230514070000 +0000" stop="20230514083000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Yeni Sabah</title>
+<desc lang="en-GB">News show, focusing on human, cultural and health stories, plus knowledge, technology and lifestyle content from Türkiye and the world.</desc>
+</programme>
+<programme start="20230514083000 +0000" stop="20230514090000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Fil Riyada</title>
+<desc lang="en-GB">Following the latest sports news and a tour with the most important events in social media..</desc>
+</programme>
+<programme start="20230514090000 +0000" stop="20230514093000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230514093000 +0000" stop="20230514100000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Qissa Vema Fiha</title>
+<desc lang="en-GB">TRT arabi correspondents shed light on different events across the globe.</desc>
+</programme>
+<programme start="20230514100000 +0000" stop="20230514110000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230514110000 +0000" stop="20230514113000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230514113000 +0000" stop="20230514120000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Fil Iqtisad</title>
+<desc lang="en-GB">Bringing you the best in television and entertainment programming.</desc>
+</programme>
+<programme start="20230514120000 +0000" stop="20230514123000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230514123000 +0000" stop="20230514130000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Wa Lana Waqfa</title>
+<desc lang="en-GB">High-profile guests debate and discuss various topics with in-depth analysis.</desc>
+</programme>
+<programme start="20230514130000 +0000" stop="20230514133000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230514133000 +0000" stop="20230514140000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Mosaic</title>
+<desc lang="en-GB">Journeying through the world of culture and art.</desc>
+</programme>
+<programme start="20230514140000 +0000" stop="20230514150000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230514150000 +0000" stop="20230514153000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230514153000 +0000" stop="20230514160000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Qissa Vema Fiha</title>
+<desc lang="en-GB">TRT arabi correspondents shed light on different events across the globe.</desc>
+</programme>
+<programme start="20230514160000 +0000" stop="20230514163000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230514163000 +0000" stop="20230514170000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Fil Iqtisad</title>
+<desc lang="en-GB">Bringing you the best in television and entertainment programming.</desc>
+</programme>
+<programme start="20230514170000 +0000" stop="20230514173000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230514173000 +0000" stop="20230514180000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Fil Riyada</title>
+<desc lang="en-GB">Following the latest sports news and a tour with the most important events in social media..</desc>
+</programme>
+<programme start="20230514180000 +0000" stop="20230514183000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Wa Lana Waqfa</title>
+<desc lang="en-GB">High-profile guests debate and discuss various topics with in-depth analysis.</desc>
+</programme>
+<programme start="20230514183000 +0000" stop="20230514190000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Mosaic</title>
+<desc lang="en-GB">Journeying through the world of culture and art.</desc>
+</programme>
+<programme start="20230514190000 +0000" stop="20230514193000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230514193000 +0000" stop="20230514200000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Men Haky</title>
+<desc lang="en-GB">Men Haky is a series of episodes about the basic human rights being violated nearly seven decades after the proclamation of the Human Rights Declaration.</desc>
+</programme>
+<programme start="20230514200000 +0000" stop="20230514210000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Alam Al Yawm</title>
+<desc lang="en-GB">Bringing you the latest from around the globe as it happens and going beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230514210000 +0000" stop="20230514213000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230514213000 +0000" stop="20230514220000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Fil Iqtisad</title>
+<desc lang="en-GB">Bringing you the best in television and entertainment programming.</desc>
+</programme>
+<programme start="20230514220000 +0000" stop="20230514223000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230514223000 +0000" stop="20230514230000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Fil Riyada</title>
+<desc lang="en-GB">Following the latest sports news and a tour with the most important events in social media..</desc>
+</programme>
+<programme start="20230514230000 +0000" stop="20230514233000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230514233000 +0000" stop="20230515000000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Wa Lana Waqfa</title>
+<desc lang="en-GB">High-profile guests debate and discuss various topics with in-depth analysis.</desc>
+</programme>
+<programme start="20230515000000 +0000" stop="20230515003000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230515003000 +0000" stop="20230515010000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Fil Iqtisad</title>
+<desc lang="en-GB">Bringing you the best in television and entertainment programming.</desc>
+</programme>
+<programme start="20230515010000 +0000" stop="20230515020000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Alam Al Yawm</title>
+<desc lang="en-GB">Bringing you the latest from around the globe as it happens and going beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230515020000 +0000" stop="20230515033000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Yeni Sabah</title>
+<desc lang="en-GB">News show, focusing on human, cultural and health stories, plus knowledge, technology and lifestyle content from Türkiye and the world.</desc>
+</programme>
+<programme start="20230515033000 +0000" stop="20230515040000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Wa Lana Waqfa</title>
+<desc lang="en-GB">High-profile guests debate and discuss various topics with in-depth analysis.</desc>
+</programme>
+<programme start="20230515040000 +0000" stop="20230515043000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Qissa Vema Fiha</title>
+<desc lang="en-GB">TRT arabi correspondents shed light on different events across the globe.</desc>
+</programme>
+<programme start="20230515043000 +0000" stop="20230515050000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Fil Riyada</title>
+<desc lang="en-GB">Following the latest sports news and a tour with the most important events in social media..</desc>
+</programme>
+<programme start="20230515050000 +0000" stop="20230515053000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230515053000 +0000" stop="20230515060000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Fil Iqtisad</title>
+<desc lang="en-GB">Bringing you the best in television and entertainment programming.</desc>
+</programme>
+<programme start="20230515060000 +0000" stop="20230515063000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230515063000 +0000" stop="20230515070000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Wa Lana Waqfa</title>
+<desc lang="en-GB">High-profile guests debate and discuss various topics with in-depth analysis.</desc>
+</programme>
+<programme start="20230515070000 +0000" stop="20230515083000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Yeni Sabah</title>
+<desc lang="en-GB">News show, focusing on human, cultural and health stories, plus knowledge, technology and lifestyle content from Türkiye and the world.</desc>
+</programme>
+<programme start="20230515083000 +0000" stop="20230515090000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Fil Riyada</title>
+<desc lang="en-GB">Following the latest sports news and a tour with the most important events in social media..</desc>
+</programme>
+<programme start="20230515090000 +0000" stop="20230515093000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230515093000 +0000" stop="20230515100000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Mosaic</title>
+<desc lang="en-GB">Journeying through the world of culture and art.</desc>
+</programme>
+<programme start="20230515100000 +0000" stop="20230515110000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230515110000 +0000" stop="20230515113000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230515113000 +0000" stop="20230515120000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Fil Iqtisad</title>
+<desc lang="en-GB">Bringing you the best in television and entertainment programming.</desc>
+</programme>
+<programme start="20230515120000 +0000" stop="20230515123000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230515123000 +0000" stop="20230515130000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Wa Lana Waqfa</title>
+<desc lang="en-GB">High-profile guests debate and discuss various topics with in-depth analysis.</desc>
+</programme>
+<programme start="20230515130000 +0000" stop="20230515133000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230515133000 +0000" stop="20230515140000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Men Haky</title>
+<desc lang="en-GB">Men Haky is a series of episodes about the basic human rights being violated nearly seven decades after the proclamation of the Human Rights Declaration.</desc>
+</programme>
+<programme start="20230515140000 +0000" stop="20230515150000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230515150000 +0000" stop="20230515153000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230515153000 +0000" stop="20230515160000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Qissa Vema Fiha</title>
+<desc lang="en-GB">TRT arabi correspondents shed light on different events across the globe.</desc>
+</programme>
+<programme start="20230515160000 +0000" stop="20230515163000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230515163000 +0000" stop="20230515170000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Fil Iqtisad</title>
+<desc lang="en-GB">Bringing you the best in television and entertainment programming.</desc>
+</programme>
+<programme start="20230515170000 +0000" stop="20230515173000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230515173000 +0000" stop="20230515180000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Fil Riyada</title>
+<desc lang="en-GB">Following the latest sports news and a tour with the most important events in social media..</desc>
+</programme>
+<programme start="20230515180000 +0000" stop="20230515183000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Wa Lana Waqfa</title>
+<desc lang="en-GB">High-profile guests debate and discuss various topics with in-depth analysis.</desc>
+</programme>
+<programme start="20230515183000 +0000" stop="20230515190000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Men Haky</title>
+<desc lang="en-GB">Men Haky is a series of episodes about the basic human rights being violated nearly seven decades after the proclamation of the Human Rights Declaration.</desc>
+</programme>
+<programme start="20230515190000 +0000" stop="20230515193000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230515193000 +0000" stop="20230515200000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Alwan Min Al Hayat</title>
+<desc lang="en-GB"></desc>
+</programme>
+<programme start="20230515200000 +0000" stop="20230515210000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Alam Al Yawm</title>
+<desc lang="en-GB">Bringing you the latest from around the globe as it happens and going beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230515210000 +0000" stop="20230515213000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230515213000 +0000" stop="20230515220000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Fil Iqtisad</title>
+<desc lang="en-GB">Bringing you the best in television and entertainment programming.</desc>
+</programme>
+<programme start="20230515220000 +0000" stop="20230515223000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230515223000 +0000" stop="20230515230000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Fil Riyada</title>
+<desc lang="en-GB">Following the latest sports news and a tour with the most important events in social media..</desc>
+</programme>
+<programme start="20230515230000 +0000" stop="20230515233000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230515233000 +0000" stop="20230516000000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Wa Lana Waqfa</title>
+<desc lang="en-GB">High-profile guests debate and discuss various topics with in-depth analysis.</desc>
+</programme>
+<programme start="20230516000000 +0000" stop="20230516003000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230516003000 +0000" stop="20230516010000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Fil Iqtisad</title>
+<desc lang="en-GB">Bringing you the best in television and entertainment programming.</desc>
+</programme>
+<programme start="20230516010000 +0000" stop="20230516020000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Alam Al Yawm</title>
+<desc lang="en-GB">Bringing you the latest from around the globe as it happens and going beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230516020000 +0000" stop="20230516033000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Yeni Sabah</title>
+<desc lang="en-GB">News show, focusing on human, cultural and health stories, plus knowledge, technology and lifestyle content from Türkiye and the world.</desc>
+</programme>
+<programme start="20230516033000 +0000" stop="20230516040000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Wa Lana Waqfa</title>
+<desc lang="en-GB">High-profile guests debate and discuss various topics with in-depth analysis.</desc>
+</programme>
+<programme start="20230516040000 +0000" stop="20230516043000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Alwan Min Al Hayat</title>
+<desc lang="en-GB"></desc>
+</programme>
+<programme start="20230516043000 +0000" stop="20230516050000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Fil Riyada</title>
+<desc lang="en-GB">Following the latest sports news and a tour with the most important events in social media..</desc>
+</programme>
+<programme start="20230516050000 +0000" stop="20230516053000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230516053000 +0000" stop="20230516060000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Fil Iqtisad</title>
+<desc lang="en-GB">Bringing you the best in television and entertainment programming.</desc>
+</programme>
+<programme start="20230516060000 +0000" stop="20230516063000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230516063000 +0000" stop="20230516070000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Wa Lana Waqfa</title>
+<desc lang="en-GB">High-profile guests debate and discuss various topics with in-depth analysis.</desc>
+</programme>
+<programme start="20230516070000 +0000" stop="20230516083000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Yeni Sabah</title>
+<desc lang="en-GB">News show, focusing on human, cultural and health stories, plus knowledge, technology and lifestyle content from Türkiye and the world.</desc>
+</programme>
+<programme start="20230516083000 +0000" stop="20230516090000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Fil Riyada</title>
+<desc lang="en-GB">Following the latest sports news and a tour with the most important events in social media..</desc>
+</programme>
+<programme start="20230516090000 +0000" stop="20230516093000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230516093000 +0000" stop="20230516100000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Men Haky</title>
+<desc lang="en-GB">Men Haky is a series of episodes about the basic human rights being violated nearly seven decades after the proclamation of the Human Rights Declaration.</desc>
+</programme>
+<programme start="20230516100000 +0000" stop="20230516110000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230516110000 +0000" stop="20230516113000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230516113000 +0000" stop="20230516120000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Fil Iqtisad</title>
+<desc lang="en-GB">Bringing you the best in television and entertainment programming.</desc>
+</programme>
+<programme start="20230516120000 +0000" stop="20230516123000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230516123000 +0000" stop="20230516130000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Wa Lana Waqfa</title>
+<desc lang="en-GB">High-profile guests debate and discuss various topics with in-depth analysis.</desc>
+</programme>
+<programme start="20230516130000 +0000" stop="20230516133000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230516133000 +0000" stop="20230516140000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Mosaic</title>
+<desc lang="en-GB">Journeying through the world of culture and art.</desc>
+</programme>
+<programme start="20230516140000 +0000" stop="20230516150000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230516150000 +0000" stop="20230516153000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230516153000 +0000" stop="20230516160000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Men Haky</title>
+<desc lang="en-GB">Men Haky is a series of episodes about the basic human rights being violated nearly seven decades after the proclamation of the Human Rights Declaration.</desc>
+</programme>
+<programme start="20230516160000 +0000" stop="20230516163000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230516163000 +0000" stop="20230516170000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Fil Iqtisad</title>
+<desc lang="en-GB">Bringing you the best in television and entertainment programming.</desc>
+</programme>
+<programme start="20230516170000 +0000" stop="20230516173000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230516173000 +0000" stop="20230516180000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Fil Riyada</title>
+<desc lang="en-GB">Following the latest sports news and a tour with the most important events in social media..</desc>
+</programme>
+<programme start="20230516180000 +0000" stop="20230516183000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Wa Lana Waqfa</title>
+<desc lang="en-GB">High-profile guests debate and discuss various topics with in-depth analysis.</desc>
+</programme>
+<programme start="20230516183000 +0000" stop="20230516190000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Qissa Vema Fiha</title>
+<desc lang="en-GB">TRT arabi correspondents shed light on different events across the globe.</desc>
+</programme>
+<programme start="20230516190000 +0000" stop="20230516193000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230516193000 +0000" stop="20230516200000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Mosaic</title>
+<desc lang="en-GB">Journeying through the world of culture and art.</desc>
+</programme>
+<programme start="20230516200000 +0000" stop="20230516210000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Alam Al Yawm</title>
+<desc lang="en-GB">Bringing you the latest from around the globe as it happens and going beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230516210000 +0000" stop="20230516213000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230516213000 +0000" stop="20230516220000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Fil Iqtisad</title>
+<desc lang="en-GB">Bringing you the best in television and entertainment programming.</desc>
+</programme>
+<programme start="20230516220000 +0000" stop="20230516223000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230516223000 +0000" stop="20230516230000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Fil Riyada</title>
+<desc lang="en-GB">Following the latest sports news and a tour with the most important events in social media..</desc>
+</programme>
+<programme start="20230516230000 +0000" stop="20230516233000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Al Akhbar</title>
+<desc lang="en-GB">The latest from around the globe as it happens, going deep and beyond to reveal the truth.</desc>
+</programme>
+<programme start="20230516233000 +0000" stop="20230517000000 +0000" channel="TRTArabi(English).it">
+<title lang="en-GB" >Wa Lana Waqfa</title>
+<desc lang="en-GB">High-profile guests debate and discuss various topics with in-depth analysis.</desc>
+</programme>
+</tv>

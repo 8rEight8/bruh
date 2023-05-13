@@ -5,8 +5,6 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiya_1080p_chunks
 https://svs.itworkscdn.net/alarabiyalive/alhadathhd.smil/alarabiapublish/alhadath/chunks.m3u8
 #EXTINF:-1 tvg-id="AlJazeera(Arabic).us" tvg-name="Al Jazeera" tvg-logo="https://www.arabnews.com/sites/default/files/styles/n_670_395/public/2017/09/30/1004036-696429756.jpg?itok=fa9TKup_" group-title="Arabic",Al Jazeera
 https://live-hls-web-aja.getaj.net/AJA/01.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Current_Logo_for_CBC_News_Network.png" group-title="Arabic",CBC News
-http://bestott.net:80/A5236CC028A4/79D262F8D46D/30521
 #EXTINF:-1 tvg-id="DWArabia(English).ch" tvg-name="DW Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="Arabic",DW Arabic
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8?ern=0
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC 1" tvg-logo="https://seeklogo.com/images/M/mbc-logo-997BE9574E-seeklogo.com.png" group-title="Arabic",MBC 1
@@ -17,3 +15,511 @@ https://live.3cd.io/v1/broadcast/one/tracks-v1a1/mono.m3u8?backup=true
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv/chunks_dvr.m3u8
 #EXTINF:-1 tvg-id="TRTArabi(English).it" tvg-name="TRT Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/TRT_Arabi_logo.svg/2560px-TRT_Arabi_logo.svg.png" group-title="Arabic",TRT Arabic
 https://tv-trtarabi.live.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 tvg-id="AandE(English).ca" tvg-name="CA - A&E HD" tvg-logo="http://logo.panel.cx/logo/CANADA/AE.png" group-title="AM | CANADA",CA - A&E HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30545
+#EXTINF:-1 tvg-id="ABCSpark(English).ca" tvg-name="CA - ABC EAST" tvg-logo="http://logo.panel.cx/logo/CANADA/AbcEAST.png" group-title="AM | CANADA",CA - ABC EAST
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30544
+#EXTINF:-1 tvg-id="ABCSpark(English).ca" tvg-name="CA - ABC SPARK HD" tvg-logo="http://logo.panel.cx/logo/CANADA/ABCSPARKCANADA.png" group-title="AM | CANADA",CA - ABC SPARK HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30543
+#EXTINF:-1 tvg-id="ABCSpark(English).ca" tvg-name="CA - ABC WEST HD" tvg-logo="http://logo.panel.cx/logo/CANADA/ABC-.png" group-title="AM | CANADA",CA - ABC WEST HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30542
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA - ACTION HD" tvg-logo="http://logo.panel.cx/logo/CANADA/ACTION.png" group-title="AM | CANADA",CA - ACTION HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30541
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA - AHC HD" tvg-logo="http://logo.panel.cx/logo/CANADA/AHC.png" group-title="AM | CANADA",CA - AHC HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30539
+#EXTINF:-1 tvg-id="AMC(English).ca" tvg-name="CA - AMC HD" tvg-logo="http://logo.panel.cx/logo/CANADA/amc.png" group-title="AM | CANADA",CA - AMC HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30538
+#EXTINF:-1 tvg-id="AnimalPlanet(English).ca" tvg-name="CA - ANIMAL PLANET HD" tvg-logo="http://logo.panel.cx/logo/CANADA/ANIMALPLANET.png" group-title="AM | CANADA",CA - ANIMAL PLANET HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30537
+#EXTINF:-1 tvg-id="aptn.ca" tvg-name="CA - APTN HD" tvg-logo="http://logo.panel.cx/logo/CANADA/APTN.png" group-title="AM | CANADA",CA - APTN HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30536
+#EXTINF:-1 tvg-id="bbcworld.ca" tvg-name="CA - BBC WORLD NEWS HD" tvg-logo="http://logo.panel.cx/logo/CANADA/BBC_World_News.png" group-title="AM | CANADA",CA - BBC WORLD NEWS HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30531
+#EXTINF:-1 tvg-id="BBCEarth(English).ca" tvg-name="CA - BBC EARTH HD" tvg-logo="http://logo.panel.cx/logo/TURKIYE/BBCEARTHHD.png" group-title="AM | CANADA",CA - BBC EARTH HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/273580
+#EXTINF:-1 tvg-id="bet.ca" tvg-name="CA - BET HD" tvg-logo="http://logo.panel.cx/logo/CANADA/Bet.png" group-title="AM | CANADA",CA - BET HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30530
+#EXTINF:-1 tvg-id="BNNBloomberg(English).ca" tvg-name="CA - BNN BLOOMBERG HD" tvg-logo="http://logo.panel.cx/logo/CANADA/bnn-bloomberg.png" group-title="AM | CANADA",CA - BNN BLOOMBERG HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30529
+#EXTINF:-1 tvg-id="AssembleeNationale(French).ca" tvg-name="CA - Bravo HD" tvg-logo="http://logo.panel.cx/logo/CANADA/BRAVO.png" group-title="AM | CANADA",CA - Bravo HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/78371
+#EXTINF:-1 tvg-id="CartoonNetwork(English).ca" tvg-name="CA - CARTOON NETWORK HD" tvg-logo="http://logo.panel.cx/logo/CANADA/CARTOONNETWORK.png" group-title="AM | CANADA",CA - CARTOON NETWORK HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30524
+#EXTINF:-1 tvg-id="DisneyJunior(English).ca" tvg-name="CA - DISNEY JUNIOR" tvg-logo="http://logo.panel.cx/logo/CANADA/DISNEYJR.png" group-title="AM | CANADA",CA - DISNEY JUNIOR
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/106683
+#EXTINF:-1 tvg-id="CBCNewsNetwork(English).ca" tvg-name="CA - CBC NEWS HD" tvg-logo="http://logo.panel.cx/logo/CANADA/CBCNEWS.png" group-title="AM | CANADA",CA - CBC NEWS HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30521
+#EXTINF:-1 tvg-id="CBMTCBCMontreal(English).ca" tvg-name="CA - CBC MONTREAL HD" tvg-logo="http://logo.panel.cx/logo/CANADA/cbcM.png" group-title="AM | CANADA",CA - CBC MONTREAL HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/211909
+#EXTINF:-1 tvg-id="CBCOttawa(English).ca" tvg-name="CA - CBC OTTAWA HD" tvg-logo="http://logo.panel.cx/logo/CANADA/CBCOTTAWA.png" group-title="AM | CANADA",CA - CBC OTTAWA HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30519
+#EXTINF:-1 tvg-id="CBC(Vancouver)(CBUT)(English).ca" tvg-name="CA - CBC TORONTO" tvg-logo="http://logo.panel.cx/logo/CANADA/CBCTORONTO.png" group-title="AM | CANADA",CA - CBC TORONTO
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30518
+#EXTINF:-1 tvg-id="CBC(Vancouver)(CBUT)(English).ca" tvg-name="CA - CBC VANCOUVER HD" tvg-logo="http://logo.panel.cx/logo/CANADA/CBCVANCOUVER.png" group-title="AM | CANADA",CA - CBC VANCOUVER HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30517
+#EXTINF:-1 tvg-id="CBXTCBCEdmonton(English).ca" tvg-name="CA - CBC EDMONTON HD" tvg-logo="http://logo.panel.cx/logo/CANADA/CBC%20EDMONTON%20HD.png" group-title="AM | CANADA",CA - CBC EDMONTON HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/302945
+#EXTINF:-1 tvg-id="CBCWinnipeg(English).ca" tvg-name="CA - CBC WINNIPEG HD" tvg-logo="http://logo.panel.cx/logo/CANADA/CBC%20WINNIPEG%20HD.png" group-title="AM | CANADA",CA - CBC WINNIPEG HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/302941
+#EXTINF:-1 tvg-id="CBAT(English).ca" tvg-name="CA - CBC FREDERICTON  HD" tvg-logo="http://logo.panel.cx/logo/CANADA/canadafr/CBC%20MONTREAL.png" group-title="AM | CANADA",CA - CBC FREDERICTON  HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/302944
+#EXTINF:-1 tvg-id="CBNTCBCStJohns(English).ca" tvg-name="CA - CBC ST JOHNS HD" tvg-logo="http://logo.panel.cx/logo/CANADA/cbcM.png" group-title="AM | CANADA",CA - CBC ST JOHNS HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/302942
+#EXTINF:-1 tvg-id="CBSSportsNetwork(English).ca" tvg-name="CA - CBS EAST HD" tvg-logo="http://logo.panel.cx/logo/CANADA/cbs.png" group-title="AM | CANADA",CA - CBS EAST HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30516
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA - CBS WEST HD" tvg-logo="http://logo.panel.cx/logo/CANADA/cbs.png" group-title="AM | CANADA",CA - CBS WEST HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30515
+#EXTINF:-1 tvg-id="CBMTCBCMontreal(English).ca" tvg-name="CA - CBC MONTREAL 4K" tvg-logo="http://logo.panel.cx/logo/CANADA/canadafr/CBC%20MONTREAL.png" group-title="AM | CANADA",CA - CBC MONTREAL 4K
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/47431
+#EXTINF:-1 tvg-id="CBMTCBCMontreal(English).ca" tvg-name="CA - CBC MONTREAL" tvg-logo="http://logo.panel.cx/logo/CANADA/canadafr/CBC%20MONTREAL.png" group-title="AM | CANADA",CA - CBC MONTREAL
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/47432
+#EXTINF:-1 tvg-id="CHCH(English).ca" tvg-name="CA - CHCH HD" tvg-logo="http://logo.panel.cx/logo/CANADA/CHCh.png" group-title="AM | CANADA",CA - CHCH HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30514
+#EXTINF:-1 tvg-id="CJNTCityTVMontreal(English).ca" tvg-name="CA - CITY MONTREAL HD" tvg-logo="http://logo.panel.cx/logo/CANADA/CITYMONTREALL.png" group-title="AM | CANADA",CA - CITY MONTREAL HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30512
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA - CITY TORONTO HD" tvg-logo="http://logo.panel.cx/logo/CANADA/cityoftorrent.png" group-title="AM | CANADA",CA - CITY TORONTO HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30510
+#EXTINF:-1 tvg-id="CKVU(CityVancouver)(English).ca" tvg-name="CA - CITY VANCOUVER HD" tvg-logo="http://logo.panel.cx/logo/CANADA/CITYVANCOUVER.png" group-title="AM | CANADA",CA - CITY VANCOUVER HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30509
+#EXTINF:-1 tvg-id="CMT(English).ca" tvg-name="CA - CMT CANADA" tvg-logo="http://logo.panel.cx/logo/CANADA/CMTCANADA.png" group-title="AM | CANADA",CA - CMT CANADA
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30507
+#EXTINF:-1 tvg-id="MSNBC(English).ca" tvg-name="CA - CNBC HD" tvg-logo="http://logo.panel.cx/logo/SCANDINAVIAN/CNBC.png" group-title="AM | CANADA",CA - CNBC HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30506
+#EXTINF:-1 tvg-id="CNN(English).ca" tvg-name="CA - CNN HD" tvg-logo="http://logo.panel.cx/logo/CANADA/CNN.png" group-title="AM | CANADA",CA - CNN HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30505
+#EXTINF:-1 tvg-id="CNNInternational(English).ca" tvg-name="CA - CNN INTERNATIONAL HD" tvg-logo="http://logo.panel.cx/logo/CANADA/CNNINTERNATIONAL.png" group-title="AM | CANADA",CA - CNN INTERNATIONAL HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30504
+#EXTINF:-1 tvg-id="CookingChannel(English).ca" tvg-name="CA - COOKING CHANNEL HD" tvg-logo="http://logo.panel.cx/logo/CANADA/Cookingchannel.png" group-title="AM | CANADA",CA - COOKING CHANNEL HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30500
+#EXTINF:-1 tvg-id="CottageLife(English).ca" tvg-name="CA - COTTAGE LIFE HD" tvg-logo="http://logo.panel.cx/logo/CANADA/COTTAGELIFE.png" group-title="AM | CANADA",CA - COTTAGE LIFE HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30498
+#EXTINF:-1 tvg-id="CablePulse24(CP24)(English).ca" tvg-name="CA - CP24 HD â—‰" tvg-logo="http://logo.panel.cx/logo/CANADA/Cp24.png" group-title="AM | CANADA",CA - CP24 HD â—‰
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30497
+#EXTINF:-1 tvg-id="cpac.ca" tvg-name="CA - CPAC" tvg-logo="http://logo.panel.cx/logo/CANADA/CPACCc.png" group-title="AM | CANADA",CA - CPAC
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30496
+#EXTINF:-1 tvg-id="CrimePlusInvestigation(English).ca" tvg-name="CA - CRIME INVESTIGATION HD" tvg-logo="http://logo.panel.cx/logo/CANADA/CRIMEINVESTIGATION.png" group-title="AM | CANADA",CA - CRIME INVESTIGATION HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30494
+#EXTINF:-1 tvg-id="TheWeatherNetwork(English).ca" tvg-name="CA - THE WEATHER NETWORK HD" tvg-logo="http://logo.panel.cx/logo/CANADA/theweatherchannel.png" group-title="AM | CANADA",CA - THE WEATHER NETWORK HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30365
+#EXTINF:-1 tvg-id="CTVHalifax(English).ca" tvg-name="CA - CTV HALIFAX HD" tvg-logo="http://logo.panel.cx/logo/CANADA/CTV.png" group-title="AM | CANADA",CA - CTV HALIFAX HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30491
+#EXTINF:-1 tvg-id="CTVNewsChannel(English).ca" tvg-name="CA - CTV NEWS NETWORK HD" tvg-logo="http://logo.panel.cx/logo/CANADA/CTV.png" group-title="AM | CANADA",CA - CTV NEWS NETWORK HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30489
+#EXTINF:-1 tvg-id="CTVOH.ca" tvg-name="CA - CTV OTTAWA HD" tvg-logo="http://logo.panel.cx/logo/CANADA/CTV.png" group-title="AM | CANADA",CA - CTV OTTAWA HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30488
+#EXTINF:-1 tvg-id="CTVToronto(English).ca" tvg-name="CA - CTV TORONTO HD â—‰" tvg-logo="http://logo.panel.cx/logo/CANADA/CTV.png" group-title="AM | CANADA",CA - CTV TORONTO HD â—‰
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30487
+#EXTINF:-1 tvg-id="CTVVancouver(English).ca" tvg-name="CA - CTV VANCOUVER HD" tvg-logo="http://logo.panel.cx/logo/CANADA/CTV.png" group-title="AM | CANADA",CA - CTV VANCOUVER HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30486
+#EXTINF:-1 tvg-id="CKCO(English).ca" tvg-name="CA - CTV Kitchener HD" tvg-logo="http://logo.panel.cx/logo/CANADA/CTV.png" group-title="AM | CANADA",CA - CTV Kitchener HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/167198
+#EXTINF:-1 tvg-id="CTVCalgary(English).ca" tvg-name="CA - CTV Calgary HD" tvg-logo="http://logo.panel.cx/logo/CANADA/CTV.png" group-title="AM | CANADA",CA - CTV Calgary HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/160577
+#EXTINF:-1 tvg-id="CFCF.ca" tvg-name="CA - CTV MONTREAL 4K" tvg-logo="http://logo.panel.cx/logo/CANADA/CTV.png" group-title="AM | CANADA",CA - CTV MONTREAL 4K
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/47427
+#EXTINF:-1 tvg-id="CFCF.ca" tvg-name="CA - CTV MONTREAL" tvg-logo="http://logo.panel.cx/logo/CANADA/CTV.png" group-title="AM | CANADA",CA - CTV MONTREAL
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/47428
+#EXTINF:-1 tvg-id="CFRN.ca" tvg-name="CA - CTV Edmonton | HD" tvg-logo="http://logo.panel.cx/logo/CANADA/CTV.png" group-title="AM | CANADA",CA - CTV Edmonton | HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/186849
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA - CTV Lethbridge | HD" tvg-logo="http://logo.panel.cx/logo/CANADA/CTV.png" group-title="AM | CANADA",CA - CTV Lethbridge | HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/186850
+#EXTINF:-1 tvg-id="ctvmoncton.ca" tvg-name="CA - CTV Moncton | HD" tvg-logo="http://logo.panel.cx/logo/CANADA/CTV.png" group-title="AM | CANADA",CA - CTV Moncton | HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/186851
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA - CTV Prince Albert | HD" tvg-logo="http://logo.panel.cx/logo/CANADA/CTV.png" group-title="AM | CANADA",CA - CTV Prince Albert | HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/186852
+#EXTINF:-1 tvg-id="ctvregina.ca" tvg-name="CA - CTV Regina | HD" tvg-logo="http://logo.panel.cx/logo/CANADA/CTV.png" group-title="AM | CANADA",CA - CTV Regina | HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/186853
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA - CTV Saskatoon | HD" tvg-logo="http://logo.panel.cx/logo/CANADA/CTV.png" group-title="AM | CANADA",CA - CTV Saskatoon | HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/186854
+#EXTINF:-1 tvg-id="MCTVCTVSaultSteMarie(CHBX)(English).ca" tvg-name="CA - CTV Sault Ste. Marie | HD" tvg-logo="http://logo.panel.cx/logo/CANADA/CTV.png" group-title="AM | CANADA",CA - CTV Sault Ste. Marie | HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/186855
+#EXTINF:-1 tvg-id="MCTVCTVTimmins(CITO)(English).ca" tvg-name="CA - CTV Timmins | HD" tvg-logo="http://logo.panel.cx/logo/CANADA/CTV.png" group-title="AM | CANADA",CA - CTV Timmins | HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/186856
+#EXTINF:-1 tvg-id="ctvwinnipeg.ca" tvg-name="CA - CTV Winnipeg | HD" tvg-logo="http://logo.panel.cx/logo/CANADA/CTV.png" group-title="AM | CANADA",CA - CTV Winnipeg | HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/186857
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA - CTV Yorkton | HD" tvg-logo="http://logo.panel.cx/logo/CANADA/CTV.png" group-title="AM | CANADA",CA - CTV Yorkton | HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/186858
+#EXTINF:-1 tvg-id="CTVLIFECHANNEL(English).ca" tvg-name="CA - CTV Life | HD" tvg-logo="http://logo.panel.cx/logo/CANADA/CTV.png" group-title="AM | CANADA",CA - CTV Life | HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/186859
+#EXTINF:-1 tvg-id="CTVSydney(English).ca" tvg-name="CA - CTV Sydney | HD" tvg-logo="http://logo.panel.cx/logo/CANADA/CTV.png" group-title="AM | CANADA",CA - CTV Sydney | HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/186860
+#EXTINF:-1 tvg-id="CTVTwoAlberta(English).ca" tvg-name="CA - CTV2 Alberta | HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/CANADA/CTV.png" group-title="AM | CANADA",CA - CTV2 Alberta | HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/186861
+#EXTINF:-1 tvg-id="CTVTwoAtlantic(English).ca" tvg-name="CA - CTV2 Atlantic | HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/CANADA/CTV.png" group-title="AM | CANADA",CA - CTV2 Atlantic | HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/186862
+#EXTINF:-1 tvg-id="CTVTwoLondonWindsor(English).ca" tvg-name="CA - CTV2 London | HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/CANADA/CTV.png" group-title="AM | CANADA",CA - CTV2 London | HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/186864
+#EXTINF:-1 tvg-id="CTVTwoVancouverVictoria(English).ca" tvg-name="CA - CTV2 Vancouver | HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/CANADA/CTV.png" group-title="AM | CANADA",CA - CTV2 Vancouver | HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/186865
+#EXTINF:-1 tvg-id="CTVTwoLondonWindsor(English).ca" tvg-name="CA - CTV2 Windsor | HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/CANADA/CTV.png" group-title="AM | CANADA",CA - CTV2 Windsor | HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/186866
+#EXTINF:-1 tvg-id="CTVTwoVancouverVictoria(English).ca" tvg-name="CA - CTV 2 VANCOUVER HD" tvg-logo="http://logo.panel.cx/logo/CANADA/CTV.png" group-title="AM | CANADA",CA - CTV 2 VANCOUVER HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30492
+#EXTINF:-1 tvg-id="CTVTwoOttawa(English).ca" tvg-name="CA - CTV 2 OTTAWA HD" tvg-logo="http://logo.panel.cx/logo/CANADA/CTV.png" group-title="AM | CANADA",CA - CTV 2 OTTAWA HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30485
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA - CW 11" tvg-logo="http://logo.panel.cx/logo/CANADA/CW11.png" group-title="AM | CANADA",CA - CW 11
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30484
+#EXTINF:-1 tvg-id="Daystar(English).ca" tvg-name="CA - DAYSTAR TV" tvg-logo="http://logo.panel.cx/logo/CANADA/DAYSTARTV.png" group-title="AM | CANADA",CA - DAYSTAR TV
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30483
+#EXTINF:-1 tvg-id="DejaView(English).ca" tvg-name="CA - DEJAVIEW HD" tvg-logo="http://logo.panel.cx/logo/CANADA/DEJAVIEW.png" group-title="AM | CANADA",CA - DEJAVIEW HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30482
+#EXTINF:-1 tvg-id="DiscoveryChannel(English).ca" tvg-name="CA - DISCOVERY CANADA" tvg-logo="http://logo.panel.cx/logo/CANADA/DISCOVERY%20CANADA.png" group-title="AM | CANADA",CA - DISCOVERY CANADA
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30481
+#EXTINF:-1 tvg-id="DiscoveryScience(English).ca" tvg-name="CA - DISCOVERY SCIENCE CANADA HD" tvg-logo="http://logo.panel.cx/logo/CANADA/science.png" group-title="AM | CANADA",CA - DISCOVERY SCIENCE CANADA HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30480
+#EXTINF:-1 tvg-id="InvestigationDiscovery(English).ca" tvg-name="CA - DISCOVERY ID HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/INVESTIGATIONDISCOVERYHD-1.png" group-title="AM | CANADA",CA - DISCOVERY ID HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/189294
+#EXTINF:-1 tvg-id="DisneyChannel(English).ca" tvg-name="CA - DISNEY CANADA HD" tvg-logo="http://logo.panel.cx/logo/CANADA/DISNEYCANADA.png" group-title="AM | CANADA",CA - DISNEY CANADA HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30479
+#EXTINF:-1 tvg-id="DisneyJunior(English).ca" tvg-name="CA - DISNEY JR HD" tvg-logo="http://logo.panel.cx/logo/CANADA/Disney_Junior.png" group-title="AM | CANADA",CA - DISNEY JR HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30477
+#EXTINF:-1 tvg-id="MuchMusic(English).ca" tvg-name="CA - MUCH" tvg-logo="http://logo.panel.cx/logo/CANADA/canadafr/MUSIC%20PLUS.png" group-title="AM | CANADA",CA - MUCH
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/106672
+#EXTINF:-1 tvg-id="EWTNC(EWTNCanadianFeed)(English-French).ca" tvg-name="CA - EWTN" tvg-logo="http://logo.panel.cx/logo/CANADA/EWTN_.png" group-title="AM | CANADA",CA - EWTN
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/106634
+#EXTINF:-1 tvg-id="DIY.ca" tvg-name="CA - DIY HD" tvg-logo="http://logo.panel.cx/logo/CANADA/Diy.png" group-title="AM | CANADA",CA - DIY HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30476
+#EXTINF:-1 tvg-id="documentary(English).ca" tvg-name="CA - DOCUMENTARY HD" tvg-logo="http://logo.panel.cx/logo/CANADA/DOCUMENTARY.png" group-title="AM | CANADA",CA - DOCUMENTARY HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30475
+#EXTINF:-1 tvg-id="TravelXP(English).ca" tvg-name="CA - TRAVEL + ESCAPE HD" tvg-logo="http://logo.panel.cx/logo/CANADA/travel_escape.png" group-title="AM | CANADA",CA - TRAVEL + ESCAPE HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/211910
+#EXTINF:-1 tvg-id="DTour(English).ca" tvg-name="CA - DTOUR HD" tvg-logo="http://logo.panel.cx/logo/CANADA/detour.png" group-title="AM | CANADA",CA - DTOUR HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30474
+#EXTINF:-1 tvg-id="EEntertainmentTelevision(English).ca" tvg-name="CA - E! CANADA" tvg-logo="http://logo.panel.cx/logo/CANADA/E.png" group-title="AM | CANADA",CA - E! CANADA
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30473
+#EXTINF:-1 tvg-id="TMNEncore1.ca" tvg-name="CA - ENCORE 1 EAST" tvg-logo="http://logo.panel.cx/logo/CANADA/ENCORE1EAST.png" group-title="AM | CANADA",CA - ENCORE 1 EAST
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30472
+#EXTINF:-1 tvg-id="tmnencore2.ca" tvg-name="CA - ENCORE 2 EAST" tvg-logo="http://logo.panel.cx/logo/CANADA/ENCORE1EAST.png" group-title="AM | CANADA",CA - ENCORE 2 EAST
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30471
+#EXTINF:-1 tvg-id="CHRGD.ca" tvg-name="CA - FAMILY CHRGD HD" tvg-logo="http://logo.panel.cx/logo/CANADA/FAMILYCHRGD.png" group-title="AM | CANADA",CA - FAMILY CHRGD HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30469
+#EXTINF:-1 tvg-id="FamilyChannel(English).ca" tvg-name="CA - FAMILY EAST HD" tvg-logo="http://logo.panel.cx/logo/CANADA/FAMILYEAST.png" group-title="AM | CANADA",CA - FAMILY EAST HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30468
+#EXTINF:-1 tvg-id="FamilyJr(English).ca" tvg-name="CA - FAMILY JR HD" tvg-logo="http://logo.panel.cx/logo/CANADA/FAMILYJR.png" group-title="AM | CANADA",CA - FAMILY JR HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30467
+#EXTINF:-1 tvg-id="TheFightNetwork(English).ca" tvg-name="CA - FIGHT NETWORK HD" tvg-logo="http://logo.panel.cx/logo/CANADA/fight-network.png" group-title="AM | CANADA",CA - FIGHT NETWORK HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30465
+#EXTINF:-1 tvg-id="FoodNetwork(English).ca" tvg-name="CA - FOOD NETWORK HD" tvg-logo="http://logo.panel.cx/logo/CANADA/FOODNETWORK.png" group-title="AM | CANADA",CA - FOOD NETWORK HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30464
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA - FOX EAST" tvg-logo="http://logo.panel.cx/logo/CANADA/FOXEAST.png" group-title="AM | CANADA",CA - FOX EAST
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30463
+#EXTINF:-1 tvg-id="FoxNewsChannel(English).ca" tvg-name="CA - FOX NEWS HD" tvg-logo="http://logo.panel.cx/logo/CANADA/Foxnews.png" group-title="AM | CANADA",CA - FOX NEWS HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30462
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA - FOX WEST" tvg-logo="http://logo.panel.cx/logo/CANADA/FOXWEST.png" group-title="AM | CANADA",CA - FOX WEST
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30461
+#EXTINF:-1 tvg-id="GameTV(English).ca" tvg-name="CA - Game TV HD" tvg-logo="http://logo.panel.cx/logo/CANADA/gametv.png" group-title="AM | CANADA",CA - Game TV HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30457
+#EXTINF:-1 tvg-id="GlobalMontreal(English).ca" tvg-name="CA - GLOBAL MONTREAL HD" tvg-logo="http://logo.panel.cx/logo/CANADA/GLOBALMONTREAL.png" group-title="AM | CANADA",CA - GLOBAL MONTREAL HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/267600
+#EXTINF:-1 tvg-id="GlobalCalgary(English).ca" tvg-name="CA - GLOBAL CALGARY HD" tvg-logo="http://logo.panel.cx/logo/CANADA/GlobalCanada.png" group-title="AM | CANADA",CA - GLOBAL CALGARY HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/304643
+#EXTINF:-1 tvg-id="CIHF.ca" tvg-name="CA - GLOBAL HALIFAX" tvg-logo="http://logo.panel.cx/logo/CANADA/HALIFAX.png" group-title="AM | CANADA",CA - GLOBAL HALIFAX
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30455
+#EXTINF:-1 tvg-id="GlobalToronto(English).ca" tvg-name="CA - GLOBAL TORONTO" tvg-logo="http://logo.panel.cx/logo/CANADA/Globaltoronto.png" group-title="AM | CANADA",CA - GLOBAL TORONTO
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30454
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA - GLOBAL VANCOUVER" tvg-logo="http://logo.panel.cx/logo/CANADA/GlobalCanada.png" group-title="AM | CANADA",CA - GLOBAL VANCOUVER
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/278554
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA - GLOBAL NEWS VANCOUVER HD" tvg-logo="http://logo.panel.cx/logo/CANADA/Global_News.png" group-title="AM | CANADA",CA - GLOBAL NEWS VANCOUVER HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30453
+#EXTINF:-1 tvg-id="GolfChannel(English).ca" tvg-name="CA - GOLF HD" tvg-logo="http://logo.panel.cx/logo/CANADA/Golf_Channel.png" group-title="AM | CANADA",CA - GOLF HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30452
+#EXTINF:-1 tvg-id="GSTV.in" tvg-name="CA - GSN" tvg-logo="http://logo.panel.cx/logo/CANADA/GSN.png" group-title="AM | CANADA",CA - GSN
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30451
+#EXTINF:-1 tvg-id="assembleenationale.ca" tvg-name="CA - GUSTO" tvg-logo="http://logo.panel.cx/logo/CANADA/GUSTO.png" group-title="AM | CANADA",CA - GUSTO
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30450
+#EXTINF:-1 tvg-id="HISTORY2(English).ca" tvg-name="CA - H2 CANADA HD" tvg-logo="http://logo.panel.cx/logo/CANADA/H2CANADA.png" group-title="AM | CANADA",CA - H2 CANADA HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30449
+#EXTINF:-1 tvg-id="HBO1(English).ca" tvg-name="CA - HBO 1 HD" tvg-logo="http://logo.panel.cx/logo/CANADA/HBO_HD.png" group-title="AM | CANADA",CA - HBO 1 HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30448
+#EXTINF:-1 tvg-id="hbo" tvg-name="CA - HBO 2 HD" tvg-logo="http://logo.panel.cx/logo/CANADA/HBO_2_.png" group-title="AM | CANADA",CA - HBO 2 HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30447
+#EXTINF:-1 tvg-id="HGTV(English).ca" tvg-name="CA - HGTV HD" tvg-logo="http://logo.panel.cx/logo/CANADA/HGTV.png" group-title="AM | CANADA",CA - HGTV HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30446
+#EXTINF:-1 tvg-id="History(English).ca" tvg-name="CA - HISTORY HD" tvg-logo="http://logo.panel.cx/logo/CANADA/HISTORY.png" group-title="AM | CANADA",CA - HISTORY HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30444
+#EXTINF:-1 tvg-id="HLN(English).ca" tvg-name="CA - HLN UHD" tvg-logo="http://logo.panel.cx/logo/CANADA/HLN.png" group-title="AM | CANADA",CA - HLN UHD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30443
+#EXTINF:-1 tvg-id="HopeChannel.us" tvg-name="CA - HOPE TV" tvg-logo="http://logo.panel.cx/logo/CANADA/SHOPPING.png" group-title="AM | CANADA",CA - HOPE TV
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30442
+#EXTINF:-1 tvg-id="ICIRadioCanada.ca" tvg-name="CA - ICI VANCOUVER HD" tvg-logo="http://logo.panel.cx/logo/CANADA/ICIVANCOUVER.png" group-title="AM | CANADA",CA - ICI VANCOUVER HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30440
+#EXTINF:-1 tvg-id="InvestigationDiscovery(English).ca" tvg-name="CA - ID CANADA HD" tvg-logo="http://logo.panel.cx/logo/CANADA/IDCANADA.png" group-title="AM | CANADA",CA - ID CANADA HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30439
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA - IFC" tvg-logo="http://logo.panel.cx/logo/CANADA/ifc.png" group-title="AM | CANADA",CA - IFC
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30438
+#EXTINF:-1 tvg-id="KnowledgeNetwork(English).ca" tvg-name="CA - KNOWLEDGE KIDS HD" tvg-logo="http://logo.panel.cx/logo/CANADA/knowledge-kids.png" group-title="AM | CANADA",CA - KNOWLEDGE KIDS HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30436
+#EXTINF:-1 tvg-id="KTLA(English).ca" tvg-name="CA - KTLA HD" tvg-logo="http://logo.panel.cx/logo/CANADA/KTLA.png" group-title="AM | CANADA",CA - KTLA HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30435
+#EXTINF:-1 tvg-id="Lifetime(English).ca" tvg-name="CA - LIFETIME HD" tvg-logo="http://logo.panel.cx/logo/CANADA/LIFETIME.png" group-title="AM | CANADA",CA - LIFETIME HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30432
+#EXTINF:-1 tvg-id="MakefulTV(English).ca" tvg-name="CA - MAKEFUL HD" tvg-logo="http://logo.panel.cx/logo/CANADA/MAKEFUL.png" group-title="AM | CANADA",CA - MAKEFUL HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30431
+#EXTINF:-1 tvg-id="REVTV(English).ca" tvg-name="CA - REV TV HD" tvg-logo="http://logo.panel.cx/logo/LATINO/MAISGLOBOSAT.png" group-title="AM | CANADA",CA - REV TV HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30430
+#EXTINF:-1 tvg-id="TheMiracleChannelCJIL(English).ca" tvg-name="CA - MIRACLE HD" tvg-logo="http://logo.panel.cx/logo/CANADA/MIRACLE.png" group-title="AM | CANADA",CA - MIRACLE HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30427
+#EXTINF:-1 tvg-id="MLBNetwork(English).ca" tvg-name="CA - MLB NETWORK HD" tvg-logo="http://logo.panel.cx/logo/CANADA/MLBNETWORK.png" group-title="AM | CANADA",CA - MLB NETWORK HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30426
+#EXTINF:-1 tvg-id="MovieTime(English).ca" tvg-name="CA - MOVIE TIME HD" tvg-logo="http://logo.panel.cx/logo/CANADA/MTIME.png" group-title="AM | CANADA",CA - MOVIE TIME HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30424
+#EXTINF:-1 tvg-id="MTV(English).ca" tvg-name="CA - MTV HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/CZECH/mtv.png" group-title="AM | CANADA",CA - MTV HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30423
+#EXTINF:-1 tvg-id="MTV2(English).ca" tvg-name="CA - MTV 2 HD" tvg-logo="http://logo.panel.cx/logo/CANADA/MTV2.png" group-title="AM | CANADA",CA - MTV 2 HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30422
+#EXTINF:-1 tvg-id="MuchMusic(English).ca" tvg-name="CA - MUCH MUSIC HD" tvg-logo="http://logo.panel.cx/logo/CANADA/MUCHMUSIC.png" group-title="AM | CANADA",CA - MUCH MUSIC HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30421
+#EXTINF:-1 tvg-id="NationalGeographic(English).ca" tvg-name="CA - NAT GEO HD" tvg-logo="http://logo.panel.cx/logo/SCANDINAVIAN/NATIONALGEOGRAPHICHD.png" group-title="AM | CANADA",CA - NAT GEO HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30419
+#EXTINF:-1 tvg-id="NationalGeographicWild(English).ca" tvg-name="CA - NAT GEO WILD" tvg-logo="http://logo.panel.cx/logo/AUSTRALIA/Nat_Geo_Wild.png" group-title="AM | CANADA",CA - NAT GEO WILD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/189295
+#EXTINF:-1 tvg-id="NBATV(English).ca" tvg-name="CA - NBA TV HD" tvg-logo="http://logo.panel.cx/logo/CANADA/NBATV.png" group-title="AM | CANADA",CA - NBA TV HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30418
+#EXTINF:-1 tvg-id="MSNBC(English).ca" tvg-name="CA - NBC EAST" tvg-logo="http://logo.panel.cx/logo/CANADA/NBCWEST.png" group-title="AM | CANADA",CA - NBC EAST
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30417
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA - NBC WEST" tvg-logo="http://logo.panel.cx/logo/CANADA/NBCWEST.png" group-title="AM | CANADA",CA - NBC WEST
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30416
+#EXTINF:-1 tvg-id="NFLNetworkALTCanadianFeed(English).ca" tvg-name="CA - NFL NETWORK HD" tvg-logo="http://logo.panel.cx/logo/CANADA/NFL_Network_.png" group-title="AM | CANADA",CA - NFL NETWORK HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30415
+#EXTINF:-1 tvg-id="Nickelodeon(English).ca" tvg-name="CA - NICK" tvg-logo="http://logo.panel.cx/logo/CANADA/NICKTOON.png" group-title="AM | CANADA",CA - NICK
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30414
+#EXTINF:-1 tvg-id="CNTV(English).ca" tvg-name="CA - NTV" tvg-logo="http://logo.panel.cx/logo/CANADA/NTV.png" group-title="AM | CANADA",CA - NTV
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30413
+#EXTINF:-1 tvg-id="OutdoorLifeNetwork(English).ca" tvg-name="CA - OLN HD" tvg-logo="http://logo.panel.cx/logo/CANADA/OLN.png" group-title="AM | CANADA",CA - OLN HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30412
+#EXTINF:-1 tvg-id="CFMT(OMNI1)(English-UnknownLanguage(tl)).ca" tvg-name="CA - OMNI 1 HD" tvg-logo="http://logo.panel.cx/logo/CANADA/OMNI1.png" group-title="AM | CANADA",CA - OMNI 1 HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30411
+#EXTINF:-1 tvg-id="CJMTOmni2Television(English-Punjabi-UnknownLanguage(tl)).ca" tvg-name="CA - OMNI 2 HD" tvg-logo="http://logo.panel.cx/logo/CANADA/OMNI2.png" group-title="AM | CANADA",CA - OMNI 2 HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30410
+#EXTINF:-1 tvg-id="ONETV(English).ca" tvg-name="CA - ONE HD" tvg-logo="http://logo.panel.cx/logo/CANADA/ONE.png" group-title="AM | CANADA",CA - ONE HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30407
+#EXTINF:-1 tvg-id="OUTtv(English).ca" tvg-name="CA - OUTTV HD" tvg-logo="http://logo.panel.cx/logo/CANADA/OUTTV.png" group-title="AM | CANADA",CA - OUTTV HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30406
+#EXTINF:-1 tvg-id="OprahWinfreyNetwork(English).ca" tvg-name="CA - OWN HD" tvg-logo="http://logo.panel.cx/logo/CANADA/OWN.png" group-title="AM | CANADA",CA - OWN HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30405
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA - PBS EAST" tvg-logo="http://logo.panel.cx/logo/CANADA/PBS.png" group-title="AM | CANADA",CA - PBS EAST
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30404
+#EXTINF:-1 tvg-id="PeachtreeTV(English).ca" tvg-name="CA - PEACHTREE" tvg-logo="http://logo.panel.cx/logo/CANADA/PEACHTREE.png" group-title="AM | CANADA",CA - PEACHTREE
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30402
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA - SHOPPING HD" tvg-logo="http://logo.panel.cx/logo/CANADA/SHOPPING.png" group-title="AM | CANADA",CA - SHOPPING HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30394
+#EXTINF:-1 tvg-id="Showcase(English).ca" tvg-name="CA - SHOWCASE EAST" tvg-logo="http://logo.panel.cx/logo/CANADA/SHOWCASEEAST.png" group-title="AM | CANADA",CA - SHOWCASE EAST
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30393
+#EXTINF:-1 tvg-id="SilverScreenClassics(English).ca" tvg-name="CA - SILVER SCREEN CLASSICS HD" tvg-logo="http://logo.panel.cx/logo/CANADA/SILVERSCREENCLASSICS.png" group-title="AM | CANADA",CA - SILVER SCREEN CLASSICS HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30392
+#EXTINF:-1 tvg-id="SLICE(English).ca" tvg-name="CA - SLICE HD" tvg-logo="http://logo.panel.cx/logo/CANADA/SLICE.png" group-title="AM | CANADA",CA - SLICE HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30391
+#EXTINF:-1 tvg-id="space.ca" tvg-name="CA - SPACE" tvg-logo="http://logo.panel.cx/logo/CANADA/SPACE.png" group-title="AM | CANADA",CA - SPACE
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30389
+#EXTINF:-1 tvg-id="ParamountNetworkCanadianFeed(English).ca" tvg-name="CA - PARAMOUNT CANADA" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/PARAMOUNTHD.png" group-title="AM | CANADA",CA - PARAMOUNT CANADA
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30388
+#EXTINF:-1 tvg-id="Sportsnet360(English).ca" tvg-name="CA - SPORTSNET 360 HD" tvg-logo="http://logo.panel.cx/logo/CANADA/Sportsnet_360.png" group-title="AM | CANADA",CA - SPORTSNET 360 HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30387
+#EXTINF:-1 tvg-id="Sportsnet(East)(English).ca" tvg-name="CA - SPORTSNET EAST HD" tvg-logo="http://logo.panel.cx/logo/CANADA/sportsnetw.png" group-title="AM | CANADA",CA - SPORTSNET EAST HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30386
+#EXTINF:-1 tvg-id="RogersSportsnetOne(English).ca" tvg-name="CA - SPORTSNET ONE HD" tvg-logo="http://logo.panel.cx/logo/CANADA/SportsNet_One.png" group-title="AM | CANADA",CA - SPORTSNET ONE HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30385
+#EXTINF:-1 tvg-id="SportsnetOntario(English).ca" tvg-name="CA - SPORTSNET ONTARIO HD" tvg-logo="http://logo.panel.cx/logo/CANADA/SPORTSNETONTARIO.png" group-title="AM | CANADA",CA - SPORTSNET ONTARIO HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30384
+#EXTINF:-1 tvg-id="Sportsnet(Pacific)(English).ca" tvg-name="CA - SPORTSNET PACIFIC HD" tvg-logo="http://logo.panel.cx/logo/CANADA/SPORTSNETPACIFIC.png" group-title="AM | CANADA",CA - SPORTSNET PACIFIC HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30383
+#EXTINF:-1 tvg-id="Sportsnet(West)(English).ca" tvg-name="CA - SPORTSNET WEST HD" tvg-logo="http://logo.panel.cx/logo/CANADA/SPORTSNETWEST.png" group-title="AM | CANADA",CA - SPORTSNET WEST HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30382
+#EXTINF:-1 tvg-id="SuperChannelFuse(English).ca" tvg-name="CA - SUPER CHANNEL FUSE HD" tvg-logo="http://logo.panel.cx/logo/CANADA/superchannel-fuse.png" group-title="AM | CANADA",CA - SUPER CHANNEL FUSE HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30380
+#EXTINF:-1 tvg-id="SuperChannelHeartandHome(English).ca" tvg-name="CA - SUPER CHANNEL HEART & HOME HD" tvg-logo="http://logo.panel.cx/logo/CANADA/superchannel-heart.png" group-title="AM | CANADA",CA - SUPER CHANNEL HEART & HOME HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30379
+#EXTINF:-1 tvg-id="SuperChannelVault(English).ca" tvg-name="CA - SUPER CHANNEL VAULT HD" tvg-logo="http://logo.panel.cx/logo/CANADA/superchannel-vault.png" group-title="AM | CANADA",CA - SUPER CHANNEL VAULT HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30378
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA - TCM HD" tvg-logo="http://logo.panel.cx/logo/CANADA/TCM.png" group-title="AM | CANADA",CA - TCM HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30373
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA - AHC" tvg-logo="http://logo.panel.cx/logo/AMERICA/CANADA/AHC.png" group-title="AM | CANADA",CA - AHC
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/106675
+#EXTINF:-1 tvg-id="TSC(English).ca" tvg-name="CA - TSC" tvg-logo="http://logo.panel.cx/logo/CANADA/tsc-HD.png" group-title="AM | CANADA",CA - TSC
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/78713
+#EXTINF:-1 tvg-id="Telelatino(English).ca" tvg-name="CA - TELE LATINO" tvg-logo="http://logo.panel.cx/logo/CANADA/Telelatino.png" group-title="AM | CANADA",CA - TELE LATINO
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30372
+#EXTINF:-1 tvg-id="TeletoonFrancais(French).ca" tvg-name="CA - TELE TOON EAST" tvg-logo="http://logo.panel.cx/logo/CANADA/TELETOONEAST.png" group-title="AM | CANADA",CA - TELE TOON EAST
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30370
+#EXTINF:-1 tvg-id="Telemagino(French).ca" tvg-name="CA - TELEMAGINO" tvg-logo="http://logo.panel.cx/logo/CANADA/TELEMAGINO.png" group-title="AM | CANADA",CA - TELEMAGINO
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30367
+#EXTINF:-1 tvg-id="TFO(French).ca" tvg-name="CA - TFO" tvg-logo="http://logo.panel.cx/logo/CANADA/TFO.png" group-title="AM | CANADA",CA - TFO
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30366
+#EXTINF:-1 tvg-id="tlc.ca" tvg-name="CA - TLC CANADA HD" tvg-logo="http://logo.panel.cx/logo/USA/TLCHD.png" group-title="AM | CANADA",CA - TLC CANADA HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30364
+#EXTINF:-1 tvg-id="tmn.ca" tvg-name="CA - TMN 1" tvg-logo="http://logo.panel.cx/logo/CANADA/TMN1.png" group-title="AM | CANADA",CA - TMN 1
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30363
+#EXTINF:-1 tvg-id="tmn2.ca" tvg-name="CA - TMN 2" tvg-logo="http://logo.panel.cx/logo/CANADA/TMN2.png" group-title="AM | CANADA",CA - TMN 2
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30362
+#EXTINF:-1 tvg-id="tmn3.ca" tvg-name="CA - TMN 3" tvg-logo="http://logo.panel.cx/logo/CANADA/TMN3.png" group-title="AM | CANADA",CA - TMN 3
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30361
+#EXTINF:-1 tvg-id="tmn4.ca" tvg-name="CA - TMN 4" tvg-logo="http://logo.panel.cx/logo/CANADA/TMN4.png" group-title="AM | CANADA",CA - TMN 4
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30360
+#EXTINF:-1 tvg-id="Treehouse(English).ca" tvg-name="CA - TREEHOUSE HD" tvg-logo="http://logo.panel.cx/logo/CANADA/TREEHOUSE.png" group-title="AM | CANADA",CA - TREEHOUSE HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30358
+#EXTINF:-1 tvg-id="TheSportsNetwork1(English).ca" tvg-name="CA - TSN 1 HD" tvg-logo="http://logo.panel.cx/logo/CANADA/TSN1.png" group-title="AM | CANADA",CA - TSN 1 HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30357
+#EXTINF:-1 tvg-id="TheSportsNetwork2(English).ca" tvg-name="CA - TSN 2 HD" tvg-logo="http://logo.panel.cx/logo/CANADA/TSN2.png" group-title="AM | CANADA",CA - TSN 2 HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30356
+#EXTINF:-1 tvg-id="TheSportsNetwork3(English).ca" tvg-name="CA - TSN 3" tvg-logo="http://logo.panel.cx/logo/CANADA/TSN3.png" group-title="AM | CANADA",CA - TSN 3
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30355
+#EXTINF:-1 tvg-id="TheSportsNetwork4(English).ca" tvg-name="CA - TSN 4 HD" tvg-logo="http://logo.panel.cx/logo/CANADA/TSN4.png" group-title="AM | CANADA",CA - TSN 4 HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30354
+#EXTINF:-1 tvg-id="TheSportsNetwork5(English).ca" tvg-name="CA - TSN 5 HD" tvg-logo="http://logo.panel.cx/logo/CANADA/TSN5.png" group-title="AM | CANADA",CA - TSN 5 HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30353
+#EXTINF:-1 tvg-id="TVOntario(CICA)(English).ca" tvg-name="CA - TVO HD" tvg-logo="http://logo.panel.cx/logo/CANADA/TVO.png" group-title="AM | CANADA",CA - TVO HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30349
+#EXTINF:-1 tvg-id="VisionTV(English).ca" tvg-name="CA - VISION" tvg-logo="http://logo.panel.cx/logo/CANADA/VISION.png" group-title="AM | CANADA",CA - VISION
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30346
+#EXTINF:-1 tvg-id="WNetwork(English).ca" tvg-name="CA - W NETWORK HD" tvg-logo="http://logo.panel.cx/logo/CANADA/WNETWORK.png" group-title="AM | CANADA",CA - W NETWORK HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30344
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA - WFN" tvg-logo="http://logo.panel.cx/logo/CANADA/WFN.png" group-title="AM | CANADA",CA - WFN
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30343
+#EXTINF:-1 tvg-id="WGNDT(English).ca" tvg-name="CA - WGN HD" tvg-logo="http://logo.panel.cx/logo/CANADA/WGN.png" group-title="AM | CANADA",CA - WGN HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30342
+#EXTINF:-1 tvg-id="WILDTV(English).ca" tvg-name="CA - Wild TV HD" tvg-logo="http://logo.panel.cx/logo/CANADA/WILDTV.png" group-title="AM | CANADA",CA - Wild TV HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30341
+#EXTINF:-1 tvg-id="WSBK(English).ca" tvg-name="CA - WSBK" tvg-logo="http://logo.panel.cx/logo/CANADA/WSBK.png" group-title="AM | CANADA",CA - WSBK
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30340
+#EXTINF:-1 tvg-id="YesTV(English).ca" tvg-name="CA - YES TV HD" tvg-logo="http://logo.panel.cx/logo/CANADA/YESTV.png" group-title="AM | CANADA",CA - YES TV HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30339
+#EXTINF:-1 tvg-id="YTV(English).ca" tvg-name="CA - YTV HD" tvg-logo="http://logo.panel.cx/logo/CANADA/YTV.png" group-title="AM | CANADA",CA - YTV HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30337
+#EXTINF:-1 tvg-id="YTVP(English).ca" tvg-name="CA - YTV West HD" tvg-logo="http://logo.panel.cx/logo/CANADA/YTVWEST.png" group-title="AM | CANADA",CA - YTV West HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/30336
+#EXTINF:-1 tvg-id="CBCCalgary(English).ca" tvg-name="CA - CBC CALGARY HD" tvg-logo="http://logo.panel.cx/logo/CANADA/CBCVANCOUVER.png" group-title="AM | CANADA",CA - CBC CALGARY HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/43893
+#EXTINF:-1 tvg-id="GlobalToronto(English).ca" tvg-name="CA - GLOBAL TORONTO HD â—‰" tvg-logo="http://logo.panel.cx/logo/CANADA/Globaltoronto.png" group-title="AM | CANADA",CA - GLOBAL TORONTO HD â—‰
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/43894
+#EXTINF:-1 tvg-id="Crave1(English).ca" tvg-name="CA - CRAVE 1 HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/CANADA/CRAVE.png" group-title="AM | CANADA",CA - CRAVE 1 HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/73080
+#EXTINF:-1 tvg-id="Crave2(English).ca" tvg-name="CA - CRAVE 2 HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/CANADA/CRAVE.png" group-title="AM | CANADA",CA - CRAVE 2 HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/73081
+#EXTINF:-1 tvg-id="Crave3(English).ca" tvg-name="CA - CRAVE 3 HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/CANADA/CRAVE.png" group-title="AM | CANADA",CA - CRAVE 3 HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/73082
+#EXTINF:-1 tvg-id="Crave4(English).ca" tvg-name="CA - CRAVE 4 HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/CANADA/CRAVE.png" group-title="AM | CANADA",CA - CRAVE 4 HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/73083
+#EXTINF:-1 tvg-id="ABCSpark(English).ca" tvg-name="CA - VIP ABC SPARK HD" tvg-logo="http://logo.panel.cx/logo/CANADA/ABCSPARKCANADA.png" group-title="AM | CANADA",CA - VIP ABC SPARK HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/42973
+#EXTINF:-1 tvg-id="AMC(English).ca" tvg-name="CA - VIP AMC HD" tvg-logo="http://logo.panel.cx/logo/CANADA/amc-hd.png" group-title="AM | CANADA",CA - VIP AMC HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/42972
+#EXTINF:-1 tvg-id="BNNBloomberg(English).ca" tvg-name="CA - VIP BNN HD" tvg-logo="http://logo.panel.cx/logo/CANADA/BNN.png" group-title="AM | CANADA",CA - VIP BNN HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/42971
+#EXTINF:-1 tvg-id="BRAVO!.ca" tvg-name="CA - VIP BRAVO HD" tvg-logo="http://logo.panel.cx/logo/CANADA/BRAVO.png" group-title="AM | CANADA",CA - VIP BRAVO HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/42970
+#EXTINF:-1 tvg-id="CBCNewsNetwork(English).ca" tvg-name="CA - VIP CBC NEWS HD" tvg-logo="http://logo.panel.cx/logo/CANADA/CBCMONTREAL.png" group-title="AM | CANADA",CA - VIP CBC NEWS HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/42967
+#EXTINF:-1 tvg-id="CHCH(English).ca" tvg-name="CA - VIP CHCH HD" tvg-logo="http://logo.panel.cx/logo/CANADA/CHCh.png" group-title="AM | CANADA",CA - VIP CHCH HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/42965
+#EXTINF:-1 tvg-id="CNN(English).ca" tvg-name="CA - VIP CNN HD" tvg-logo="http://logo.panel.cx/logo/CANADA/CNN.png" group-title="AM | CANADA",CA - VIP CNN HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/42963
+#EXTINF:-1 tvg-id="EEntertainmentTelevision(English).ca" tvg-name="CA - VIP E! HD" tvg-logo="http://logo.panel.cx/logo/CANADA/E.png" group-title="AM | CANADA",CA - VIP E! HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/42950
+#EXTINF:-1 tvg-id="TheFightNetwork(English).ca" tvg-name="CA - VIP FIGHT NETWORK HD" tvg-logo="http://logo.panel.cx/logo/CANADA/fight-network.png" group-title="AM | CANADA",CA - VIP FIGHT NETWORK HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/42905
+#EXTINF:-1 tvg-id="FoodNetwork(English).ca" tvg-name="CA - VIP FOOD NETWORK  HD" tvg-logo="http://logo.panel.cx/logo/CANADA/FIGHTNETWORK.png" group-title="AM | CANADA",CA - VIP FOOD NETWORK  HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/42949
+#EXTINF:-1 tvg-id="CIHF.ca" tvg-name="CA - VIP GLOBAL HALIFAX HD" tvg-logo="http://logo.panel.cx/logo/CANADA/HALIFAX.png" group-title="AM | CANADA",CA - VIP GLOBAL HALIFAX HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/42904
+#EXTINF:-1 tvg-id="GlobalToronto(English).ca" tvg-name="CA - VIP GLOBAL TORONTO HD" tvg-logo="http://logo.panel.cx/logo/CANADA/Globaltoronto.png" group-title="AM | CANADA",CA - VIP GLOBAL TORONTO HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/42897
+#EXTINF:-1 tvg-id="HBO(West)(English).ca" tvg-name="CA - VIP HBO 2 HD" tvg-logo="http://logo.panel.cx/logo/CANADA/HBO_2_.png" group-title="AM | CANADA",CA - VIP HBO 2 HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/42943
+#EXTINF:-1 tvg-id="HLN(English).ca" tvg-name="CA - VIP HLN HD" tvg-logo="http://logo.panel.cx/logo/CANADA/HLN.png" group-title="AM | CANADA",CA - VIP HLN HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/42939
+#EXTINF:-1 tvg-id="Lifetime(English).ca" tvg-name="CA - VIP LIFETIME HD" tvg-logo="http://logo.panel.cx/logo/CANADA/LIFETIME.png" group-title="AM | CANADA",CA - VIP LIFETIME HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/42938
+#EXTINF:-1 tvg-id="NBATV(English).ca" tvg-name="CA - VIP NBA TV HD" tvg-logo="http://logo.panel.cx/logo/CANADA/NBATV.png" group-title="AM | CANADA",CA - VIP NBA TV HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/42900
+#EXTINF:-1 tvg-id="OutdoorLifeNetwork(English).ca" tvg-name="CA - VIP OLN HD" tvg-logo="http://logo.panel.cx/logo/CANADA/OLN.png" group-title="AM | CANADA",CA - VIP OLN HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/42975
+#EXTINF:-1 tvg-id="OprahWinfreyNetwork(English).ca" tvg-name="CA - VIP OWN HD" tvg-logo="http://logo.panel.cx/logo/CANADA/OWN.png" group-title="AM | CANADA",CA - VIP OWN HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/42931
+#EXTINF:-1 tvg-id="SLICE(English).ca" tvg-name="CA - VIP SLICE HD" tvg-logo="http://logo.panel.cx/logo/CANADA/SLICE.png" group-title="AM | CANADA",CA - VIP SLICE HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/42927
+#EXTINF:-1 tvg-id="space.ca" tvg-name="CA - VIP SPACE HD" tvg-logo="http://logo.panel.cx/logo/CANADA/SPACE.png" group-title="AM | CANADA",CA - VIP SPACE HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/42926
+#EXTINF:-1 tvg-id="Sportsnet360(English).ca" tvg-name="CA - VIP SPORTSNET 360 HD" tvg-logo="http://logo.panel.cx/logo/CANADA/Sportsnet_360.png" group-title="AM | CANADA",CA - VIP SPORTSNET 360 HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/42925
+#EXTINF:-1 tvg-id="Sportsnet(East)(English).ca" tvg-name="CA - VIP SPORTSNET EAST HD" tvg-logo="http://logo.panel.cx/logo/CANADA/sportsnetw.png" group-title="AM | CANADA",CA - VIP SPORTSNET EAST HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/42924
+#EXTINF:-1 tvg-id="RogersSportsnetOne(English).ca" tvg-name="CA - VIP SPORTSNET ONE HD" tvg-logo="http://logo.panel.cx/logo/CANADA/SportsNet_One.png" group-title="AM | CANADA",CA - VIP SPORTSNET ONE HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/42923
+#EXTINF:-1 tvg-id="SportsnetOntario(English).ca" tvg-name="CA - VIP SPORTSNET ONTARIO HD" tvg-logo="http://logo.panel.cx/logo/USA/SPORTSNETONTARIOHD.png" group-title="AM | CANADA",CA - VIP SPORTSNET ONTARIO HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/42922
+#EXTINF:-1 tvg-id="Sportsnet(Pacific)(English).ca" tvg-name="CA - VIP SPORTSNET PACIFIC HD" tvg-logo="http://logo.panel.cx/logo/USA/CBSSPORTSNETWORKHD.png" group-title="AM | CANADA",CA - VIP SPORTSNET PACIFIC HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/42921
+#EXTINF:-1 tvg-id="Sportsnet(West)(English).ca" tvg-name="CA - VIP SPORTSNET WEST HD" tvg-logo="http://logo.panel.cx/logo/USA/SPORTSNETONEHD.png" group-title="AM | CANADA",CA - VIP SPORTSNET WEST HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/42920
+#EXTINF:-1 tvg-id="tlc.ca" tvg-name="CA - VIP TLC HD" tvg-logo="http://logo.panel.cx/logo/USA/TLCHD.png" group-title="AM | CANADA",CA - VIP TLC HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/42918
+#EXTINF:-1 tvg-id="TheSportsNetwork1(English).ca" tvg-name="CA - VIP TSN 1 HD" tvg-logo="http://logo.panel.cx/logo/CANADA/TSN1.png" group-title="AM | CANADA",CA - VIP TSN 1 HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/42917
+#EXTINF:-1 tvg-id="TheSportsNetwork2(English).ca" tvg-name="CA - VIP TSN 2 HD" tvg-logo="http://logo.panel.cx/logo/CANADA/TSN2.png" group-title="AM | CANADA",CA - VIP TSN 2 HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/42916
+#EXTINF:-1 tvg-id="TheSportsNetwork3(English).ca" tvg-name="CA - VIP TSN 3 HD" tvg-logo="http://logo.panel.cx/logo/CANADA/TSN3.png" group-title="AM | CANADA",CA - VIP TSN 3 HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/42915
+#EXTINF:-1 tvg-id="TheSportsNetwork4(English).ca" tvg-name="CA - VIP TSN 4 HD" tvg-logo="http://logo.panel.cx/logo/CANADA/TSN4.png" group-title="AM | CANADA",CA - VIP TSN 4 HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/42914
+#EXTINF:-1 tvg-id="TheSportsNetwork5(English).ca" tvg-name="CA - VIP TSN 5 HD" tvg-logo="http://logo.panel.cx/logo/CANADA/TSN5.png" group-title="AM | CANADA",CA - VIP TSN 5 HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/42913
+#EXTINF:-1 tvg-id="TheSportsNetwork1(English).ca" tvg-name="CA - BK- TSN 1 HD" tvg-logo="http://logo.panel.cx/logo/CANADA/TSN1.png" group-title="AM | CANADA",CA - BK- TSN 1 HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/78714
+#EXTINF:-1 tvg-id="TheSportsNetwork2(English).ca" tvg-name="CA - BK- TSN 2 HD" tvg-logo="http://logo.panel.cx/logo/CANADA/TSN2.png" group-title="AM | CANADA",CA - BK- TSN 2 HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/78715
+#EXTINF:-1 tvg-id="TheSportsNetwork3(English).ca" tvg-name="CA - BK- TSN 3 HD" tvg-logo="http://logo.panel.cx/logo/CANADA/TSN3.png" group-title="AM | CANADA",CA - BK- TSN 3 HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/78716
+#EXTINF:-1 tvg-id="TheSportsNetwork4(English).ca" tvg-name="CA - BK- TSN 4 HD" tvg-logo="http://logo.panel.cx/logo/CANADA/TSN4.png" group-title="AM | CANADA",CA - BK- TSN 4 HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/78717
+#EXTINF:-1 tvg-id="TheSportsNetwork5(English).ca" tvg-name="CA - BK- TSN 5 HD" tvg-logo="http://logo.panel.cx/logo/CANADA/TSN5.png" group-title="AM | CANADA",CA - BK- TSN 5 HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/78718
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA - BK- Sports | HD" tvg-logo="http://logo.panel.cx/logo/CANADA/SPORTS-HD.png" group-title="AM | CANADA",CA - BK- Sports | HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/78782
+#EXTINF:-1 tvg-id="RogersSportsnetOne(English).ca" tvg-name="CA - BK- SPORTSNET ONE HD" tvg-logo="http://logo.panel.cx/logo/CANADA/SportsNet_One.png" group-title="AM | CANADA",CA - BK- SPORTSNET ONE HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/78721
+#EXTINF:-1 tvg-id="Sportsnet(East)(English).ca" tvg-name="CA - BK- SPORTSNET EAST HD" tvg-logo="http://logo.panel.cx/logo/CANADA/sportsnetw.png" group-title="AM | CANADA",CA - BK- SPORTSNET EAST HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/78720
+#EXTINF:-1 tvg-id="Sportsnet360(English).ca" tvg-name="CA - BK- SPORTSNET 360 HD" tvg-logo="http://logo.panel.cx/logo/CANADA/Sportsnet_360.png" group-title="AM | CANADA",CA - BK- SPORTSNET 360 HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/78719
+#EXTINF:-1 tvg-id="SportsnetOntario(English).ca" tvg-name="CA - BK- SPORTSNET ONTARIO" tvg-logo="http://logo.panel.cx/logo/CANADA/SPORTSNETONTARIO.png" group-title="AM | CANADA",CA - BK- SPORTSNET ONTARIO
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/78724
+#EXTINF:-1 tvg-id="SportsnetOntario(English).ca" tvg-name="CA - BK- SPORTSNET ONTARIO HD" tvg-logo="http://logo.panel.cx/logo/CANADA/SPORTSNETONTARIO.png" group-title="AM | CANADA",CA - BK- SPORTSNET ONTARIO HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/78722
+#EXTINF:-1 tvg-id="Sportsnet(Pacific)(English).ca" tvg-name="CA - BK- SPORTSNET PACIFIC HD" tvg-logo="http://logo.panel.cx/logo/CANADA/SPORTSNETPACIFIC.png" group-title="AM | CANADA",CA - BK- SPORTSNET PACIFIC HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/78725
+#EXTINF:-1 tvg-id="Sportsnet(West)(English).ca" tvg-name="CA - BK- SPORTSNET WEST HD" tvg-logo="http://logo.panel.cx/logo/CANADA/SPORTSNETWEST.png" group-title="AM | CANADA",CA - BK- SPORTSNET WEST HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/78726
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA - BK- SPORTSNET PPV HD" tvg-logo="http://logo.panel.cx/logo/CANADA/Sportsnet-One.png" group-title="AM | CANADA",CA - BK- SPORTSNET PPV HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/78727
+#EXTINF:-1 tvg-id="CBKT.ca" tvg-name="CA - CBC REGINA HD" tvg-logo="http://logo.panel.cx/logo/CANADA/cbcM.png" group-title="AM | CANADA",CA - CBC REGINA HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/302943
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="##### DAZN #####" tvg-logo="http://logo.panel.cx/logo/EUROPE/ITALY/DAZNSPORT1.png" group-title="AM | CANADA",##### DAZN #####
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/305175
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA - DAZN 1 HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/ITALY/DAZNSPORT1.png" group-title="AM | CANADA",CA - DAZN 1 HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/305159
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA - DAZN 2 HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/ITALY/DAZNSPORT1.png" group-title="AM | CANADA",CA - DAZN 2 HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/305160
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA - DAZN 3 HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/ITALY/DAZNSPORT1.png" group-title="AM | CANADA",CA - DAZN 3 HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/305161
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA - DAZN 4 HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/ITALY/DAZNSPORT1.png" group-title="AM | CANADA",CA - DAZN 4 HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/305162
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA - DAZN 5 HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/ITALY/DAZNSPORT1.png" group-title="AM | CANADA",CA - DAZN 5 HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/305163
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA - DAZN 6 HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/ITALY/DAZNSPORT1.png" group-title="AM | CANADA",CA - DAZN 6 HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/305164
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA - DAZN 7 HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/ITALY/DAZNSPORT1.png" group-title="AM | CANADA",CA - DAZN 7 HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/305165
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA - DAZN 8 HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/ITALY/DAZNSPORT1.png" group-title="AM | CANADA",CA - DAZN 8 HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/305166
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA - DAZN 9 HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/ITALY/DAZNSPORT1.png" group-title="AM | CANADA",CA - DAZN 9 HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/305167
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA - DAZN 10 HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/ITALY/DAZNSPORT1.png" group-title="AM | CANADA",CA - DAZN 10 HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/305168
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA - DAZN 11 HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/ITALY/DAZNSPORT1.png" group-title="AM | CANADA",CA - DAZN 11 HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/305169
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA - DAZN 12 HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/ITALY/DAZNSPORT1.png" group-title="AM | CANADA",CA - DAZN 12 HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/305170
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA - DAZN 13 HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/ITALY/DAZNSPORT1.png" group-title="AM | CANADA",CA - DAZN 13 HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/305171
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA - CBC CHARLOTTETOWN HD" tvg-logo="http://logo.panel.cx/logo/CANADA/canadafr/CBC%20MONTREAL.png" group-title="AM | CANADA",CA - CBC CHARLOTTETOWN HD
+http://bestott.net:80/A5236CC028A4/79D262F8D46D/302946
